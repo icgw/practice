@@ -2,6 +2,7 @@
  * characters.
  */
 #include <iostream>
+#include <set>
 using namespace std;
 
 class Solution {
@@ -18,7 +19,7 @@ class Solution {
 		}
 
 		/* Time Limit Exceeded */
-		static int lengthOfLongestSubstring(string s) {
+		/*static int lengthOfLongestSubstring(string s) {
 			int max = s.size() > 0 ? 1 : 0;
 			for (int i = 0; i < s.size(); ++i){
 				for (int len = s.size() - i; len > 0; --len){
@@ -28,6 +29,27 @@ class Solution {
 				}
 			}
 			return max;
+		}*/
+
+		static int lengthOfLongestSubstring(string s){
+			int ans = 0, i = 0, j = 1;
+			set<char> slidingWindow;
+			int n = s.size();
+			if (n != 0){
+				slidingWindow.insert(s[0]);
+				ans = 1;
+			}
+			while (i < n && j < n){
+				if (slidingWindow.find(s[j]) == slidingWindow.end()){
+					slidingWindow.insert(s[j++]);
+
+					if (ans < j - i)
+						ans = j - i;
+				} else {
+					slidingWindow.erase(s[i++]);
+				}
+			}
+			return ans;
 		}
 };
 
