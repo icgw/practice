@@ -16,7 +16,7 @@
 <details>
 <summary>展开</summary>
 
-* [两数之和](C/0001._Two_Sum.c)
+* :+1: [两数之和](Python3/0001._Two_Sum.py)
 * []()
 
 </details>
@@ -25,7 +25,18 @@
 <details>
 <summary>展开</summary>
 
-* [两数相加]()
+* :+1: [两数相加](Python3/0002._Add_Two_Numbers.py)
+    - 提示：设置虚拟结点。
+* []()
+
+</details>
+
+### 技巧性
+<details>
+<summary>展开</summary>
+
+* :+1: [无重复字符的最长子串](Python3/0003._Longest_Substring_Without_Repeating_Characters.py)
+    - 提示：滑动窗口。
 * []()
 
 </details>
