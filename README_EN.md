@@ -12,11 +12,11 @@ Practice makes perfect
 LeetCode Problems' Solutions written with C, C++ and Python3.
 
 ## Contents
-### Hash Map
+### Hash Table
 <details>
 <summary>View</summary>
 
-* [Two Sum](C/0001._Two_Sum.c)
+* :+1: [Two Sum](Python3/0001._Two_Sum.py)
 * []()
 
 </details>
@@ -25,7 +25,18 @@ LeetCode Problems' Solutions written with C, C++ and Python3.
 <details>
 <summary>View</summary>
 
-* [Add Two Numbers]()
+* :+1: [Add Two Numbers](Python3/0002._Add_Two_Numbers.py)
+    - Hint: Creating a dummy node.
+* []()
+
+</details>
+
+### Tricky
+<details>
+<summary>View</summary>
+
+* :+1: [Longest Substring Without Repeating Characters](Python3/0003._Longest_Substring_Without_Repeating_Characters.py)
+    - Hint: Sliding windows.
 * []()
 
 </details>
