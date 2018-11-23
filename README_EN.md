@@ -17,7 +17,9 @@ LeetCode Problems' Solutions written with C, C++ and Python3.
 <summary>View</summary>
 
 * :+1: [Two Sum](Python3/0001._Two_Sum.py)
-* []()
+* :+1: [Longest Substring Without Repeating Characters](Python3/0003._Longest_Substring_Without_Repeating_Characters.py)
+    - Hint: Sliding windows.
+* :+1: [Median of Two Sorted Arrays]() :trollface:
 
 </details>
 
@@ -35,8 +37,6 @@ LeetCode Problems' Solutions written with C, C++ and Python3.
 <details>
 <summary>View</summary>
 
-* :+1: [Longest Substring Without Repeating Characters](Python3/0003._Longest_Substring_Without_Repeating_Characters.py)
-    - Hint: Sliding windows.
 * []()
 
 </details>

@@ -17,7 +17,9 @@
 <summary>展开</summary>
 
 * :+1: [两数之和](Python3/0001._Two_Sum.py)
-* []()
+* :+1: [无重复字符的最长子串](Python3/0003._Longest_Substring_Without_Repeating_Characters.py)
+    - 提示：滑动窗口。
+* :+1: [寻找两个有序数组的中位数]() :trollface:
 
 </details>
 
@@ -35,8 +37,6 @@
 <details>
 <summary>展开</summary>
 
-* :+1: [无重复字符的最长子串](Python3/0003._Longest_Substring_Without_Repeating_Characters.py)
-    - 提示：滑动窗口。
 * []()
 
 </details>

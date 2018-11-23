@@ -5,6 +5,18 @@ class Solution:
         :type s: str
         :rtype: int
         """
+        m, i, ans = {}, 0, 0
+        for j, ch in enumerate(s):
+            i = max(m[ch], i) if ch in m else i
+            ans = max(ans, j - i + 1)
+            m[ch] = j + 1
+        return ans
+
+    def lengthOfLongestSubstring_V2(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
         w = ""
         count = maxLen = 0
         for ch in s:
