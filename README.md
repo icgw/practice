@@ -6,9 +6,9 @@
 
 领扣(LeetCode)
 =============
-码，码不停题
+> 码，码不停题
 
-> 领扣的题解整理，包含 C、C++ 以及 Python3 的实现。
+领扣的题解整理，包含 C、C++ 以及 Python3 的实现。
 
 ## 目录
 ### 哈希表
@@ -37,8 +37,18 @@
 <summary>展开</summary>
 
 * :+1: [寻找两个有序数组的中位数](Python3/0004._Median_of_Two_Sorted_Arrays.py) :trollface:
-    - 提示：将奇、偶数组长度合并成一种情况。
+    - 提示：将奇、偶长度的数组合并成一种情况。
     - 探究：除了分而治之，试想另外的解决方案。
+* []()
+
+</details>
+
+### 动态规划
+<details>
+<summary>展开</summary>
+
+* :+1: [最长回文子串](Python3/0005._Longest_Palindromic_Substring.py)
+    - 提示：考虑奇、偶长度的子串。
 * []()
 
 </details>

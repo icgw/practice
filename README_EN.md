@@ -6,9 +6,9 @@
 
 LeetCode
 ========
-Practice makes perfect
+> Practice makes perfect
 
-> LeetCode Problems' Solutions written with C, C++ and Python3.
+LeetCode Problems' Solutions written with C, C++ and Python3.
 
 ## Contents
 ### Hash Table
@@ -37,8 +37,18 @@ Practice makes perfect
 <summary>View</summary>
 
 * :+1: [Median of Two Sorted Arrays](Python3/0004._Median_of_Two_Sorted_Arrays.py) :trollface:
-    - Hint: Odd-lengthed and even-lengthed arrays can be combined as one case.
+    - Hint: Odd-length and even-length arrays can be combined as one case.
     - Follow up: Other than divide and conquer, can you consider another approach to solve the problem?
+* []()
+
+</details>
+
+### Dynamic Programming
+<details>
+<summary>View</summary>
+
+* :+1: [Longest Palindromic Substring](Python3/0005._Longest_Palindromic_Substring.py)
+    - Hint: Consider Odd-length and even-length substring.
 * []()
 
 </details>
