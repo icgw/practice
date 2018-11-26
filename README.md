@@ -8,8 +8,7 @@
 =============
 码，码不停题
 
-## 前言  
-领扣题解分享，有 C、C++ 以及 Python3 的实现。
+> 领扣的题解整理，包含 C、C++ 以及 Python3 的实现。
 
 ## 目录
 ### 哈希表
@@ -19,7 +18,7 @@
 * :+1: [两数之和](Python3/0001._Two_Sum.py)
 * :+1: [无重复字符的最长子串](Python3/0003._Longest_Substring_Without_Repeating_Characters.py)
     - 提示：滑动窗口。
-* :+1: [寻找两个有序数组的中位数]() :trollface:
+* []()
 
 </details>
 
@@ -33,10 +32,13 @@
 
 </details>
 
-### 技巧性
+### 分而治之
 <details>
 <summary>展开</summary>
 
+* :+1: [寻找两个有序数组的中位数](Python3/0004._Median_of_Two_Sorted_Arrays.py) :trollface:
+    - 提示：将奇、偶数组长度合并成一种情况。
+    - 探究：除了分而治之，试想另外的解决方案。
 * []()
 
 </details>
