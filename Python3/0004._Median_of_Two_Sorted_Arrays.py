@@ -17,8 +17,8 @@ def findKthSortedArrays(nums1, s1, nums2, s2, k):
     p = k // 2
     v1 = nums1[s1 + p - 1] if s1 + p - 1 < len(nums1) else float("inf")
     v2 = nums2[s2 + p - 1] if s2 + p - 1 < len(nums2) else float("inf")
-    return findKthSortedArrays(nums1, s1 + p, nums2, s2, k - p) \
-            if v1 < v2 else findKthSortedArrays(nums1, s1, nums2, s2 + p, k - p)
+    return findKthSortedArrays(nums1, s1 + p, nums2, s2, k - p) if v1 < v2 \
+            else findKthSortedArrays(nums1, s1, nums2, s2 + p, k - p)
 
 class Solution:
     def findMedianSortedArrays(self, nums1, nums2):
