@@ -47,8 +47,17 @@
 <details>
 <summary>展开</summary>
 
+* :+1: [正则表达式匹配](Python3/0010._Regular_Expression_Matching.py) :trollface:
+* []()
+
+</details>
+
+### 其它
+<details>
+<summary>展开</summary>
+
 * :+1: [最长回文子串](Python3/0005._Longest_Palindromic_Substring.py)
-    - 提示：考虑奇、偶长度的子串。
+    - 提示：考虑奇、偶长度的子串。
 * []()
 
 </details>

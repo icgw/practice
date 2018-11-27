@@ -47,6 +47,15 @@ LeetCode Problems' Solutions written with C, C++ and Python3.
 <details>
 <summary>View</summary>
 
+* :+1: [Regular Expression Matching](Python3/0010._Regular_Expression_Matching.py) :trollface:
+* []()
+
+</details>
+
+### Others
+<details>
+<summary>View</summary>
+
 * :+1: [Longest Palindromic Substring](Python3/0005._Longest_Palindromic_Substring.py)
     - Hint: Consider Odd-length and even-length substring.
 * []()
