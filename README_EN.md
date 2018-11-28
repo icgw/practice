@@ -71,6 +71,8 @@ LeetCode Problems' Solutions written with C, C++ and Python3.
     - Hint: Set two points initialized at both ends of the arrays.
 * :+1: [3Sum](Python3/0015._3Sum.py)
     - Hint: Set two points.
+* :+1: [Remove Nth Node From End of List](Python3/0019._Remove_Nth_Node_From_End_of_List.py)
+    - Follow up: Could you do this in one pass?
 * []()
 
 </details>

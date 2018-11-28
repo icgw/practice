@@ -38,7 +38,7 @@
 
 * :+1: [寻找两个有序数组的中位数](Python3/0004._Median_of_Two_Sorted_Arrays.py) :trollface:
     - 提示：将奇、偶长度的数组合并成一种情况。
-    - 探究：除了分而治之，试想另外的解决方案。
+    - 进阶：除了分而治之，试想另外的解决方案。
 * []()
 
 </details>
@@ -52,7 +52,7 @@
 
 </details>
 
-### 排列与组合
+### 排列组合
 <details>
 <summary>展开</summary>
 
@@ -71,5 +71,6 @@
     - 提示：设置两端点。
 * :+1: [三数之和](Python3/0015._3Sum.py)
     - 提示：设置两端点。
-* []()
+* :+1: [删除链表的倒数第N个节点](Python3/0019._Remove_Nth_Node_From_End_of_List.py)
+    - 进阶：限制只扫描一趟。
 </details>
