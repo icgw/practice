@@ -60,5 +60,7 @@ LeetCode Problems' Solutions written with C, C++ and Python3.
     - Hint: Consider Odd-length and even-length substring.
 * :+1: [Container With Most Water](Python3/0011._Container_With_Most_Water.py)
     - Hint: Set two points initialized at both ends of the arrays.
+* :+1: [3Sum](Python3/0015._3Sum.py)
+    - Hint: Set two points.
 
 </details>
