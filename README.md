@@ -52,6 +52,15 @@
 
 </details>
 
+### 排列与组合
+<details>
+<summary>展开</summary>
+
+* :+1: [电话号码的字母组合](Python3/0017._Letter_Combinations_of_a_Phone_Number.py)
+* []()
+
+</details>
+
 ### 其它
 <details>
 <summary>展开</summary>

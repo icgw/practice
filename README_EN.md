@@ -52,6 +52,15 @@ LeetCode Problems' Solutions written with C, C++ and Python3.
 
 </details>
 
+### Permutations & combinations
+<details>
+<summary>view</summary>
+
+* :+1: [Letter Combinations of a Phone Number](Python3/0017._Letter_Combinations_of_a_Phone_Number.py)
+* []()
+
+</details>
+
 ### Others
 <details>
 <summary>View</summary>
@@ -62,5 +71,6 @@ LeetCode Problems' Solutions written with C, C++ and Python3.
     - Hint: Set two points initialized at both ends of the arrays.
 * :+1: [3Sum](Python3/0015._3Sum.py)
     - Hint: Set two points.
+* []()
 
 </details>
