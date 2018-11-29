@@ -73,6 +73,7 @@ LeetCode Problems' Solutions written with C, C++ and Python3.
     - Hint: Set two points.
 * :+1: [Remove Nth Node From End of List](Python3/0019._Remove_Nth_Node_From_End_of_List.py)
     - Follow up: Could you do this in one pass?
+* :+1: [Valid Parentheses](Python3/0020._Valid_Parentheses.py)
 * []()
 
 </details>
