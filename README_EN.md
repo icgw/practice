@@ -52,11 +52,12 @@ LeetCode Problems' Solutions written with C, C++ and Python3.
 
 </details>
 
-### Permutations & combinations
+### Backtracking
 <details>
-<summary>view</summary>
+<summary>View</summary>
 
 * :+1: [Letter Combinations of a Phone Number](Python3/0017._Letter_Combinations_of_a_Phone_Number.py)
+* :+1: [Generate Parentheses](Python3/0022._Generate_Parentheses.py)
 * []()
 
 </details>
@@ -75,7 +76,7 @@ LeetCode Problems' Solutions written with C, C++ and Python3.
     - Follow up: Could you do this in one pass?
 * :+1: [Valid Parentheses](Python3/0020._Valid_Parentheses.py)
     - Hint: Using stack.
-* :+1: [Merge Two Sorted Lists](0021._Merge_Two_Sorted_Lists.py)
+* :+1: [Merge Two Sorted Lists](Python3/0021._Merge_Two_Sorted_Lists.py)
     - Hint: Creating a dummy node.
 * []()
 

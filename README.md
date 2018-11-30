@@ -52,11 +52,12 @@
 
 </details>
 
-### 排列组合
+### 回溯法
 <details>
 <summary>展开</summary>
 
 * :+1: [电话号码的字母组合](Python3/0017._Letter_Combinations_of_a_Phone_Number.py)
+* :+1: [括号生成](Python3/0022._Generate_Parentheses.py)
 * []()
 
 </details>
@@ -75,7 +76,8 @@
     - 进阶：限制只扫描一趟。
 * :+1: [有效的括号](Python3/0020._Valid_Parentheses.py)
     - 提示：栈的应用。
-* :+1: [合并两个有序链表](0021._Merge_Two_Sorted_Lists.py)
+* :+1: [合并两个有序链表](Python3/0021._Merge_Two_Sorted_Lists.py)
     - 提示：设置虚拟结点。
 * []()
+
 </details>
