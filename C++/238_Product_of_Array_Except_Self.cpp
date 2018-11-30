@@ -21,7 +21,7 @@ class Solution {
 			vector<int> prod(n);
 			for (i = prod[0] = 1; i < n; ++i) 
 				prod[i] = prod[i - 1] * nums[i - 1];
-			for (--i; i >= 0; --i){
+			while (--i >= 0){
 				prod[i] *= pre;
 				pre *= nums[i];
 			}
