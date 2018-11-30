@@ -26,7 +26,4 @@ class Solution:
 if __name__ == "__main__":
     a, a.next, a.next.next = ListNode(2), ListNode(4), ListNode(3)
     b, b.next, b.next.next = ListNode(5), ListNode(6), ListNode(4)
-    output = Solution().addTwoNumbers(a, b)
-    print("%d -> %d -> %d" 
-            % (output.val, output.next.val, output.next.next.val))
-
+    print(Solution().addTwoNumbers(a, b))

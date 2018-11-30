@@ -22,12 +22,6 @@ class Solution:
         return head
 
 if __name__ == "__main__":
-    lst = ListNode(1)
-    lst.next = ListNode(2)
-    lst.next.next = ListNode(3)
-    lst.next.next.next = ListNode(4)
-    lst.next.next.next.next = ListNode(5)
-    ans = Solution().removeNthFromEnd(lst, 2)
-    while ans:
-        print(ans.val)
-        ans = ans.next
+    lst, lst.next, lst.next.next = ListNode(1), ListNode(2), ListNode(3)
+    lst.next.next.next, lst.next.next.next.next = ListNode(4), ListNode(5)
+    print(Solution().removeNthFromEnd(lst, 2))
