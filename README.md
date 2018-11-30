@@ -74,5 +74,8 @@
 * :+1: [删除链表的倒数第N个节点](Python3/0019._Remove_Nth_Node_From_End_of_List.py)
     - 进阶：限制只扫描一趟。
 * :+1: [有效的括号](Python3/0020._Valid_Parentheses.py)
+    - 提示：栈的应用。
+* :+1: [合并两个有序链表](0021._Merge_Two_Sorted_Lists.py)
+    - 提示：设置虚拟结点。
 * []()
 </details>
