@@ -22,16 +22,6 @@ LeetCode Problems' Solutions written with C, C++ and Python3.
 
 </details>
 
-### Math
-<details>
-<summary>View</summary>
-
-* :+1: [Add Two Numbers](Python3/0002._Add_Two_Numbers.py)
-    - Hint: Creating a dummy node.
-* []()
-
-</details>
-
 ### Divide and Conquer
 <details>
 <summary>View</summary>
@@ -67,6 +57,8 @@ LeetCode Problems' Solutions written with C, C++ and Python3.
 <details>
 <summary>View</summary>
 
+* :+1: [Add Two Numbers](Python3/0002._Add_Two_Numbers.py)
+    - Hint: Creating a dummy node.
 * :+1: [Longest Palindromic Substring](Python3/0005._Longest_Palindromic_Substring.py)
     - Hint: Consider Odd-length and even-length substring.
 * :+1: [Container With Most Water](Python3/0011._Container_With_Most_Water.py)
@@ -79,6 +71,8 @@ LeetCode Problems' Solutions written with C, C++ and Python3.
     - Hint: Using stack.
 * :+1: [Merge Two Sorted Lists](Python3/0021._Merge_Two_Sorted_Lists.py)
     - Hint: Creating a dummy node.
+* :+1: [Next Permutation](Python3/0031._Next_Permutation.py)
+    - Hint: The method goes back to **Narayana Pandita** in 14th century India, and has been frequently rediscovered ever since. [[Wikipedia page](https://en.wikipedia.org/wiki/Permutation#Generation_in_lexicographic_order)]
 * []()
 
 </details>

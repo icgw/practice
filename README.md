@@ -22,16 +22,6 @@
 
 </details>
 
-### 数学
-<details>
-<summary>展开</summary>
-
-* :+1: [两数相加](Python3/0002._Add_Two_Numbers.py)
-    - 提示：设置虚拟结点。
-* []()
-
-</details>
-
 ### 分而治之
 <details>
 <summary>展开</summary>
@@ -67,6 +57,8 @@
 <details>
 <summary>展开</summary>
 
+* :+1: [两数相加](Python3/0002._Add_Two_Numbers.py)
+    - 提示：设置虚拟结点。
 * :+1: [最长回文子串](Python3/0005._Longest_Palindromic_Substring.py)
     - 提示：考虑奇、偶长度的子串。
 * :+1: [盛最多水的容器](Python3/0011._Container_With_Most_Water.py)
@@ -79,6 +71,8 @@
     - 提示：栈的应用。
 * :+1: [合并两个有序链表](Python3/0021._Merge_Two_Sorted_Lists.py)
     - 提示：设置虚拟结点。
-* []()
+* :+1: [下一个排列](Python3/0031._Next_Permutation.py)
+    - 提示：十四世纪数学天才**斯里尼瓦瑟·拉马努金**提出了*字典序的下一个排列*的算法。
+* :+1: []()
 
 </details>
