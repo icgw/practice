@@ -39,6 +39,7 @@ LeetCode Problems' Solutions written with C, C++ and Python3.
 * :+1: [Median of Two Sorted Arrays](Python3/0004._Median_of_Two_Sorted_Arrays.py) :trollface:
     - Hint: Odd-length and even-length arrays can be combined as one case.
     - Follow up: Other than divide and conquer, can you consider another approach to solve the problem?
+* :+1: [Merge k Sorted Lists](Python3/0023._Merge_k_Sorted_Lists.py) :trollface:
 * []()
 
 </details>

@@ -39,6 +39,7 @@
 * :+1: [寻找两个有序数组的中位数](Python3/0004._Median_of_Two_Sorted_Arrays.py) :trollface:
     - 提示：将奇、偶长度的数组合并成一种情况。
     - 进阶：除了分而治之，试想另外的解决方案。
+* :+1: [合并K个排序链表](Python3/0023._Merge_k_Sorted_Lists.py) :trollface:
 * []()
 
 </details>
