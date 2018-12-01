@@ -39,6 +39,7 @@
 <summary>展开</summary>
 
 * :+1: [正则表达式匹配](Python3/0010._Regular_Expression_Matching.py) :trollface:
+* :+1: [最长有效括号](Python3/0032._Longest_Valid_Parentheses.py) :trollface:
 * []()
 
 </details>
@@ -73,6 +74,6 @@
     - 提示：设置虚拟结点。
 * :+1: [下一个排列](Python3/0031._Next_Permutation.py)
     - 提示：十四世纪数学天才**斯里尼瓦瑟·拉马努金**提出了*字典序的下一个排列*的算法。
-* :+1: []()
+* []()
 
 </details>

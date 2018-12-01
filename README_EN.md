@@ -39,6 +39,7 @@ LeetCode Problems' Solutions written with C, C++ and Python3.
 <summary>View</summary>
 
 * :+1: [Regular Expression Matching](Python3/0010._Regular_Expression_Matching.py) :trollface:
+* :+1: [Longest Valid Parentheses](Python3/0032._Longest_Valid_Parentheses.py) :trollface:
 * []()
 
 </details>
