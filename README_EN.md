@@ -54,6 +54,17 @@ LeetCode Problems' Solutions written with C, C++11, Java and Python3.
 
 </details>
 
+### Binary Search
+<details>
+<summary>View</summary>
+
+* :+1: [Search in Rotated Sorted Array](Python3/0033._Search_in_Rotated_Sorted_Array.py)
+    - Hint: Consider the case whether `nums[mid]` and `target` are *on the same side* of `nums[0]`.
+* :+1: [Find First and Last Position of Element in Sorted Array](Python3/0034._Find_First_and_Last_Position_of_Element_in_Sorted_Array.py)
+* []()
+
+</details>
+
 ### Others
 <details>
 <summary>View</summary>
@@ -74,8 +85,6 @@ LeetCode Problems' Solutions written with C, C++11, Java and Python3.
     - Hint: Creating a dummy node.
 * :+1: [Next Permutation](Python3/0031._Next_Permutation.py)
     - Hint: The method goes back to **Narayana Pandita** in 14th century India, and has been frequently rediscovered ever since. [[Wikipedia page](https://en.wikipedia.org/wiki/Permutation#Generation_in_lexicographic_order)]
-* :+1: [Search in Rotated Sorted Array](Python3/0033._Search_in_Rotated_Sorted_Array.py)
-    - Hint: Consider the case whether `nums[mid]` and `target` are *on the same side* of `nums[0]`.
 * []()
 
 </details>
