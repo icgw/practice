@@ -1,3 +1,5 @@
+package _0001_two_sum;
+
 import java.util.Arrays;
 import java.util.HashMap;
 
