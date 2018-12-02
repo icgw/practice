@@ -8,7 +8,7 @@ LeetCode
 ========
 > Practice makes perfect
 
-LeetCode Problems' Solutions written with C, C++ and Python3.
+LeetCode Problems' Solutions written with C, C++, Java and Python3.
 
 ## Contents
 ### Hash Table

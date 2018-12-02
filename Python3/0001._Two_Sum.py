@@ -8,9 +8,9 @@ class Solution:
         """
         lookup = {}
         for i, num in enumerate(nums):
-            if target - num in lookup:
-                return [lookup[target - num], i]
-            lookup[num] = i
+            if num in lookup:
+                return [lookup[num], i]
+            lookup[target - num] = i
 
 if __name__ == "__main__":
     print(Solution().twoSum([2, 7, 11, 15], 9))
