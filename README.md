@@ -8,7 +8,7 @@
 =============
 > 码，码不停题
 
-领扣的题解整理，包含 C、C++、Java 以及 Python3 的实现。
+领扣的题解整理，包含 C、C++11、Java 以及 Python3 的实现。
 
 ## 目录
 ### 哈希表
@@ -79,3 +79,7 @@
 * []()
 
 </details>
+
+## 讨论交流
+[![question](https://cloud.githubusercontent.com/assets/1147451/7267465/5c872b74-e8ee-11e4-9005-ba60df38b0fa.png)
+](https://github.com/icgw/LeetCode/issues/new)
