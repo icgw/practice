@@ -1,5 +1,5 @@
 #include <iostream>
-#include "solution.h"
+#include "solution.hpp"
 
 void run_example(){
     Solution s;

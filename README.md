@@ -54,12 +54,12 @@
 
 </details>
 
-### 二分搜索
+### 二分查找
 <details>
 <summary>展开</summary>
 
 * :+1: [搜索旋转排序数组](Python3/0033._Search_in_Rotated_Sorted_Array.py)
-    - 提示：二分搜索，考虑 `target` 与 `nums[mid]` 是否在左或右的有序数组内。
+    - 提示：考虑 `target` 与 `nums[mid]` 是否在左或右的有序数组内。
 * :+1: [在排序数组中查找元素的第一个和最后一个位置](Python3/0034._Find_First_and_Last_Position_of_Element_in_Sorted_Array.py)
 * []()
 
