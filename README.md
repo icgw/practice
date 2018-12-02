@@ -74,6 +74,8 @@
     - 提示：设置虚拟结点。
 * :+1: [下一个排列](Python3/0031._Next_Permutation.py)
     - 提示：十四世纪数学天才**斯里尼瓦瑟·拉马努金**提出了*字典序的下一个排列*的算法。
+* :+1: [搜索旋转排序数组](Python3/0033._Search_in_Rotated_Sorted_Array.py)
+    - 提示：二分搜索，考虑 `target` 与 `nums[mid]` 是否在左或右的有序数组内。
 * []()
 
 </details>

@@ -74,6 +74,8 @@ LeetCode Problems' Solutions written with C, C++ and Python3.
     - Hint: Creating a dummy node.
 * :+1: [Next Permutation](Python3/0031._Next_Permutation.py)
     - Hint: The method goes back to **Narayana Pandita** in 14th century India, and has been frequently rediscovered ever since. [[Wikipedia page](https://en.wikipedia.org/wiki/Permutation#Generation_in_lexicographic_order)]
+* :+1: [Search in Rotated Sorted Array](Python3/0033._Search_in_Rotated_Sorted_Array.py)
+    - Hint: Consider the case whether `nums[mid]` and `target` are *on the same side* of `nums[0]`.
 * []()
 
 </details>
