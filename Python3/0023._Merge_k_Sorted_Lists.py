@@ -43,7 +43,7 @@ class Solution:
         return dummy.next
 
 if __name__ == "__main__":
-    l1, l1.next, l1.next.next = ListNode(1), ListNode(4), ListNode(5)
-    l2, l2.next, l2.next.next = ListNode(1), ListNode(3), ListNode(4)
-    l3, l3.next = ListNode(2), ListNode(6)
+    l1 = ListNode.stringToListNode("[1, 4, 5]")
+    l2 = ListNode.stringToListNode("[1, 3, 4]")
+    l3 = ListNode.stringToListNode("[2, 6]")
     print(Solution().mergeKLists([l1, l2, l3]))

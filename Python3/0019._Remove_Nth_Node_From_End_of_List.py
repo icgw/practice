@@ -22,6 +22,5 @@ class Solution:
         return head
 
 if __name__ == "__main__":
-    lst, lst.next, lst.next.next = ListNode(1), ListNode(2), ListNode(3)
-    lst.next.next.next, lst.next.next.next.next = ListNode(4), ListNode(5)
+    lst = ListNode.stringToListNode("[1, 2, 3, 4, 5]")
     print(Solution().removeNthFromEnd(lst, 2))

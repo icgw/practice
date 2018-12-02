@@ -44,6 +44,6 @@ class Solution:
         return dummy.next
 
 if __name__ == "__main__":
-    a, a.next, a.next.next = ListNode(2), ListNode(4), ListNode(3)
-    b, b.next, b.next.next = ListNode(5), ListNode(6), ListNode(4)
+    a = ListNode.stringToListNode("[2, 4, 3]");
+    b = ListNode.stringToListNode("[5, 6, 4]");
     print(Solution().addTwoNumbers(a, b))

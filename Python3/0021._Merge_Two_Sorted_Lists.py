@@ -21,6 +21,6 @@ class Solution:
         return dummy.next
 
 if __name__ == "__main__":
-    l1, l1.next, l1.next.next = ListNode(1), ListNode(2), ListNode(4)
-    l2, l2.next, l2.next.next = ListNode(1), ListNode(3), ListNode(4)
+    l1 = ListNode.stringToListNode("[1, 2, 4]")
+    l2 = ListNode.stringToListNode("[1, 3, 4]")
     print(Solution().mergeTwoLists(l1, l2))
