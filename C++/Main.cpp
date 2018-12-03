@@ -2,7 +2,9 @@
 
 #define EXAMPLE279 "0279._Perfect_Squares/example.cpp"
 
-#include EXAMPLE279
+#define EXAMPLE283 "0283._Move_Zeroes/example.cpp"
+
+#include EXAMPLE283
 
 int main(int argc, char *argv[]){
 	run_example();
