@@ -86,6 +86,7 @@
     - 提示：设置虚拟结点。
 * :+1: [下一个排列](Python3/0031._Next_Permutation.py)
     - 提示：十四世纪数学天才**斯里尼瓦瑟·拉马努金**提出了*字典序的下一个排列*的算法。
+* :+1: [接雨水](Python3/0042._Trapping_Rain_Water.py) :trollface:
 * []()
 
 </details>
