@@ -12,7 +12,7 @@
 
 ## 目录
 ### 哈希表
-<details>
+<details open>
 <summary>展开</summary>
 
 * :+1: [两数之和](Python3/0001._Two_Sum.py)
@@ -23,7 +23,7 @@
 </details>
 
 ### 分而治之
-<details>
+<details open>
 <summary>展开</summary>
 
 * :+1: [寻找两个有序数组的中位数](Python3/0004._Median_of_Two_Sorted_Arrays.py) :trollface:
@@ -35,7 +35,7 @@
 </details>
 
 ### 动态规划
-<details>
+<details open>
 <summary>展开</summary>
 
 * :+1: [正则表达式匹配](Python3/0010._Regular_Expression_Matching.py) :trollface:
@@ -45,7 +45,7 @@
 </details>
 
 ### 回溯法
-<details>
+<details open>
 <summary>展开</summary>
 
 * :+1: [电话号码的字母组合](Python3/0017._Letter_Combinations_of_a_Phone_Number.py)
@@ -56,7 +56,7 @@
 </details>
 
 ### 二分查找
-<details>
+<details open>
 <summary>展开</summary>
 
 * :+1: [搜索旋转排序数组](Python3/0033._Search_in_Rotated_Sorted_Array.py)
@@ -67,7 +67,7 @@
 </details>
 
 ### 其它
-<details>
+<details open>
 <summary>展开</summary>
 
 * :+1: [两数相加](Python3/0002._Add_Two_Numbers.py)

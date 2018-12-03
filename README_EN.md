@@ -12,7 +12,7 @@ LeetCode Problems' Solutions written with C, C++11, Java and Python3.
 
 ## Contents
 ### Hash Table
-<details>
+<details open>
 <summary>View</summary>
 
 * :+1: [Two Sum](Python3/0001._Two_Sum.py)
@@ -23,7 +23,7 @@ LeetCode Problems' Solutions written with C, C++11, Java and Python3.
 </details>
 
 ### Divide and Conquer
-<details>
+<details open>
 <summary>View</summary>
 
 * :+1: [Median of Two Sorted Arrays](Python3/0004._Median_of_Two_Sorted_Arrays.py) :trollface:
@@ -35,7 +35,7 @@ LeetCode Problems' Solutions written with C, C++11, Java and Python3.
 </details>
 
 ### Dynamic Programming
-<details>
+<details open>
 <summary>View</summary>
 
 * :+1: [Regular Expression Matching](Python3/0010._Regular_Expression_Matching.py) :trollface:
@@ -45,7 +45,7 @@ LeetCode Problems' Solutions written with C, C++11, Java and Python3.
 </details>
 
 ### Backtracking
-<details>
+<details open>
 <summary>View</summary>
 
 * :+1: [Letter Combinations of a Phone Number](Python3/0017._Letter_Combinations_of_a_Phone_Number.py)
@@ -56,7 +56,7 @@ LeetCode Problems' Solutions written with C, C++11, Java and Python3.
 </details>
 
 ### Binary Search
-<details>
+<details open>
 <summary>View</summary>
 
 * :+1: [Search in Rotated Sorted Array](Python3/0033._Search_in_Rotated_Sorted_Array.py)
@@ -67,7 +67,7 @@ LeetCode Problems' Solutions written with C, C++11, Java and Python3.
 </details>
 
 ### Others
-<details>
+<details open>
 <summary>View</summary>
 
 * :+1: [Add Two Numbers](Python3/0002._Add_Two_Numbers.py)
