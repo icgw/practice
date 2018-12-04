@@ -4,7 +4,9 @@
 
 #define EXAMPLE283 "0283._Move_Zeroes/example.cpp"
 
-#include EXAMPLE283
+#define EXAMPLE287 "0287._Find_the_Duplicate_Number/example.cpp"
+
+#include EXAMPLE287
 
 int main(int argc, char *argv[]){
 	run_example();
