@@ -13,7 +13,7 @@
 ## 目录
 ### 哈希表
 <details open>
-<summary>展开</summary>
+<summary>查看</summary>
 
 * :+1: [两数之和](Python3/0001._Two_Sum.py)
 * :+1: [无重复字符的最长子串](Python3/0003._Longest_Substring_Without_Repeating_Characters.py)
@@ -24,7 +24,7 @@
 
 ### 分而治之
 <details open>
-<summary>展开</summary>
+<summary>查看</summary>
 
 * :+1: [寻找两个有序数组的中位数](Python3/0004._Median_of_Two_Sorted_Arrays.py) :trollface:
     - 提示：将奇、偶长度的数组合并成一种情况。
@@ -36,7 +36,7 @@
 
 ### 动态规划
 <details open>
-<summary>展开</summary>
+<summary>查看</summary>
 
 * :+1: [正则表达式匹配](Python3/0010._Regular_Expression_Matching.py) :trollface:
 * :+1: [最长有效括号](Python3/0032._Longest_Valid_Parentheses.py) :trollface:
@@ -46,18 +46,19 @@
 
 ### 回溯法
 <details open>
-<summary>展开</summary>
+<summary>查看</summary>
 
 * :+1: [电话号码的字母组合](Python3/0017._Letter_Combinations_of_a_Phone_Number.py)
 * :+1: [括号生成](Python3/0022._Generate_Parentheses.py)
 * :+1: [组合总和](Python3/0039._Combination_Sum.py)
+* :+1: [全排列](Python3/0046._Permutations.py)
 * []()
 
 </details>
 
 ### 二分查找
 <details open>
-<summary>展开</summary>
+<summary>查看</summary>
 
 * :+1: [搜索旋转排序数组](Python3/0033._Search_in_Rotated_Sorted_Array.py)
     - 提示：考虑 `target` 与 `nums[mid]` 是否在左或右的有序数组内。
@@ -68,7 +69,7 @@
 
 ### 其它
 <details open>
-<summary>展开</summary>
+<summary>查看</summary>
 
 * :+1: [两数相加](Python3/0002._Add_Two_Numbers.py)
     - 提示：设置虚拟结点。

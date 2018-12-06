@@ -51,6 +51,7 @@ LeetCode Problems' Solutions written with C, C++11, Java and Python3.
 * :+1: [Letter Combinations of a Phone Number](Python3/0017._Letter_Combinations_of_a_Phone_Number.py)
 * :+1: [Generate Parentheses](Python3/0022._Generate_Parentheses.py)
 * :+1: [Combination Sum](Python3/0039._Combination_Sum.py)
+* :+1: [Permutations](Python3/0046._Permutations.py)
 * []()
 
 </details>
