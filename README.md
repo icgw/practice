@@ -1,6 +1,6 @@
 <p align="center"><img src="https://leetcode.com/static/images/LeetCode_Sharing.png"></p>
 
-简体中文 | [English](README_EN.md)
+简体中文 | [English](README-en.md)
 
 ![](https://img.shields.io/badge/license-MIT-000000.svg?style=flat)
 
