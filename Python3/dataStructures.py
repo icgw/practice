@@ -16,7 +16,7 @@ class ListNode:
         """
         # Generate list from the input
         nums = json.loads(list_str)
-        
+
         # Now convert that list into linked list
         dummyRoot = ListNode(0)
         ptr = dummyRoot

@@ -88,6 +88,7 @@ LeetCode Problems' Solutions written with C, C++11, Java and Python3.
 * :+1: [Next Permutation](Python3/0031._Next_Permutation.py)
     - Hint: The method goes back to **Narayana Pandita** in 14th century India, and has been frequently rediscovered ever since. [[Wikipedia page](https://en.wikipedia.org/wiki/Permutation#Generation_in_lexicographic_order)]
 * :+1: [Trapping Rain Water](Python3/0042._Trapping_Rain_Water.py) :trollface:
+* :+1: [Rotate Image](Python3/0048._Rotate_Image.py)
 * []()
 
 </details>
