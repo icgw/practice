@@ -1,5 +1,16 @@
 #include "example.hpp"
-#include EXAMPLE322
+
+#ifdef EXAMPLE
+#include EXAMPLE
+#else
+#include EXAMPLE1
+#endif
+
+static const auto _ = [](){
+    std::ios::sync_with_stdio(false);
+    std::cin.tie(0);
+    return 0;
+}();
 
 int main(int argc, char *argv[]){
     RUN_EXAMPLE

@@ -1,7 +1,10 @@
 #ifndef __EXAMPLE__
 #define __EXAMPLE__
 
+#define EXAMPLE1 "0001._Two_Sum/example.cpp"
+
 #define EXAMPLE42 "0042._Trapping_Rain_Water/example.cpp"
+
 #define EXAMPLE279 "0279._Perfect_Squares/example.cpp"
 #define EXAMPLE283 "0283._Move_Zeroes/example.cpp"
 #define EXAMPLE287 "0287._Find_the_Duplicate_Number/example.cpp"
