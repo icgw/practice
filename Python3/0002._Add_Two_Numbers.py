@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from dataStructures import ListNode
+from data_structures import ListNode
 
 class Solution:
     def addTwoNumbers(self, l1, l2):
