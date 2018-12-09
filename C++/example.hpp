@@ -12,6 +12,7 @@
 #define EXAMPLE309 "0309._Best_Time_to_Buy_and_Sell_Stock_with_Cooldown/example.cpp"
 #define EXAMPLE322 "0322._Coin_Change/example.cpp"
 #define EXAMPLE337 "0337._House_Robber_III/example.cpp"
+#define EXAMPLE338 "0338._Counting_Bits/example.cpp"
 
 #define RUN_EXAMPLE run_example();
 
