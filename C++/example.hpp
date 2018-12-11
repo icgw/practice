@@ -15,6 +15,7 @@
 #define EXAMPLE338 "0338._Counting_Bits/example.cpp"
 #define EXAMPLE347 "0347._Top_K_Frequent_Elements/example.cpp"
 #define EXAMPLE394 "0394._Decode_String/example.cpp"
+#define EXAMPLE406 "0406._Queue_Reconstruction_by_Height/example.cpp"
 
 #define RUN_EXAMPLE run_example();
 
