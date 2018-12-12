@@ -16,6 +16,7 @@
 #define EXAMPLE347 "0347._Top_K_Frequent_Elements/example.cpp"
 #define EXAMPLE394 "0394._Decode_String/example.cpp"
 #define EXAMPLE406 "0406._Queue_Reconstruction_by_Height/example.cpp"
+#define EXAMPLE416 "0416._Partition_Equal_Subset_Sum/example.cpp"
 
 #define RUN_EXAMPLE run_example();
 
