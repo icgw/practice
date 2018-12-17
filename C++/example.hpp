@@ -21,6 +21,7 @@
 #define EXAMPLE438 "0438._Find_All_Anagrams_in_a_String/example.cpp"
 #define EXAMPLE448 "0448._Find_All_Numbers_Disappeared_in_an_Array/example.cpp"
 #define EXAMPLE461 "0461._Hamming_Distance/example.cpp"
+#define EXAMPLE494 "0494._Target_Sum/example.cpp"
 #define EXAMPLE771 "0771._Jewels_and_Stones/example.cpp"
 
 #define RUN_EXAMPLE run_example();
