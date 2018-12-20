@@ -24,6 +24,7 @@
 #define EXAMPLE494 "0494._Target_Sum/example.cpp"
 #define EXAMPLE538 "0538._Convert_BST_to_Greater_Tree/example.cpp"
 #define EXAMPLE543 "0543._Diameter_of_Binary_Tree/example.cpp"
+#define EXAMPLE560 "0560._Subarray_Sum_Equals_K/example.cpp"
 #define EXAMPLE771 "0771._Jewels_and_Stones/example.cpp"
 
 #define RUN_EXAMPLE run_example();
