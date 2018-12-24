@@ -28,6 +28,7 @@
 #define EXAMPLE572 "0572._Subtree_of_Another_Tree/example.cpp"
 #define EXAMPLE581 "0581._Shortest_Unsorted_Continuous_Subarray/example.cpp"
 #define EXAMPLE621 "0621._Task_Scheduler/example.cpp"
+#define EXAMPLE647 "0647._Palindromic_Substrings/example.cpp"
 #define EXAMPLE771 "0771._Jewels_and_Stones/example.cpp"
 
 #define RUN_EXAMPLE run_example();
