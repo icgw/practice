@@ -7,6 +7,7 @@
 #define EXAMPLE72 "0072._Edit_Distance/example.cpp"
 #define EXAMPLE76 "0076._Minimum_Window_Substring/example.cpp"
 #define EXAMPLE84 "0084._Largest_Rectangle_in_Histogram/example.cpp"
+#define EXAMPLE85 "0085._Maximal_Rectangle/example.cpp"
 
 #define EXAMPLE279 "0279._Perfect_Squares/example.cpp"
 #define EXAMPLE283 "0283._Move_Zeroes/example.cpp"
