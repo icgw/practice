@@ -10,6 +10,7 @@
 #define EXAMPLE85 "0085._Maximal_Rectangle/example.cpp"
 
 #define EXAMPLE124 "0124._Binary_Tree_Maximum_Path_Sum/example.cpp"
+#define EXAMPLE128 "0128._Longest_Consecutive_Sequence/example.cpp"
 
 #define EXAMPLE279 "0279._Perfect_Squares/example.cpp"
 #define EXAMPLE283 "0283._Move_Zeroes/example.cpp"
