@@ -4,11 +4,11 @@
 
 ![](https://img.shields.io/badge/license-MIT-000000.svg?style=flat)
 
-领扣(LeetCode)
+力扣(LeetCode)
 =============
 > 码，码不停题
 
-领扣的题解整理，包含 C、C++11、Java 以及 Python3 的实现。
+力扣的题解整理，包含 C、C++11、Java 以及 Python3 的实现。
 
 ## 目录
 ### 哈希表
