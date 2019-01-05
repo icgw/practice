@@ -13,6 +13,7 @@
 #define EXAMPLE128 "0128._Longest_Consecutive_Sequence/example.cpp"
 #define EXAMPLE146 "0146._LRU_Cache/example.cpp"
 
+#define EXAMPLE202 "0202._Happy_Number/example.cpp"
 #define EXAMPLE239 "0239._Sliding_Window_Maximum/example.cpp"
 #define EXAMPLE279 "0279._Perfect_Squares/example.cpp"
 #define EXAMPLE283 "0283._Move_Zeroes/example.cpp"
