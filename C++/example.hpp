@@ -16,6 +16,7 @@
 #define EXAMPLE202 "0202._Happy_Number/example.cpp"
 #define EXAMPLE204 "0204._Count_Primes/example.cpp"
 #define EXAMPLE210 "0210._Course_Schedule_II/example.cpp"
+#define EXAMPLE217 "0217._Contains_Duplicate/example.cpp"
 #define EXAMPLE239 "0239._Sliding_Window_Maximum/example.cpp"
 #define EXAMPLE279 "0279._Perfect_Squares/example.cpp"
 #define EXAMPLE283 "0283._Move_Zeroes/example.cpp"
