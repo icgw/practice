@@ -4,6 +4,9 @@
 #include <queue>
 #include <sstream>
 
+#include <vector>
+using std::vector;
+
 using std::queue;
 
 using std::string;
@@ -17,20 +20,70 @@ struct TreeNode {
     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
 };
 
+struct ListNode {
+    int val;
+    ListNode *next;
+    ListNode(int x) : val(x), next(NULL) {}
+};
+
 void trimLeftTrailingSpaces(string &input){
     input.erase(input.begin(), find_if(input.begin(), input.end(), [](int ch) {
                     return !isspace(ch);
                 }));
 }
 
-void trimRightTrailinSpaces(string &input){
+void trimRightTrailingSpaces(string &input){
     input.erase(find_if(input.rbegin(), input.rend(), [](int ch) {
                     return !isspace(ch);
                 }).base(), input.end());
 }
 
+vector<int> stringToIntegerVector(string input) {
+    vector<int> output;
+    trimLeftTrailingSpaces(input);
+    trimRightTrailingSpaces(input);
+    input = input.substr(1, input.length() - 2);
+    stringstream ss;
+    ss.str(input);
+    string item;
+    char delim = ',';
+    while (getline(ss, item, delim)) {
+        output.push_back(stoi(item));
+    }
+    return output;
+}
+
+ListNode* stringToListNode(string input) {
+    // Generate list from the input
+    vector<int> list = stringToIntegerVector(input);
+
+    // Now convert that list into linked list
+    ListNode* dummyRoot = new ListNode(0);
+    ListNode* ptr = dummyRoot;
+    for(int item : list) {
+        ptr->next = new ListNode(item);
+        ptr = ptr->next;
+    }
+    ptr = dummyRoot->next;
+    delete dummyRoot;
+    return ptr;
+}
+
+void prettyPrintLinkedList(ListNode* node) {
+    while (node && node->next) {
+        std::cout << node->val << "->";
+        node = node->next;
+    }
+
+    if (node) {
+      std::cout << node->val << std::endl;
+    } else {
+      std::cout << "Empty LinkedList" << std::endl;
+    }
+}
+
 TreeNode* stringToTreeNode(string input){
-    trimRightTrailinSpaces(input);
+    trimRightTrailingSpaces(input);
     trimLeftTrailingSpaces(input);
     input = input.substr(1, input.length() - 2);
     if (!input.size()) return nullptr;
