@@ -22,6 +22,7 @@
 #define EXAMPLE237 "0237._Delete_Node_in_a_Linked_List/example.cpp"
 #define EXAMPLE239 "0239._Sliding_Window_Maximum/example.cpp"
 #define EXAMPLE242 "0242._Valid_Anagram/example.cpp"
+#define EXAMPLE268 "0268._Missing_Number/example.cpp"
 #define EXAMPLE279 "0279._Perfect_Squares/example.cpp"
 #define EXAMPLE283 "0283._Move_Zeroes/example.cpp"
 #define EXAMPLE287 "0287._Find_the_Duplicate_Number/example.cpp"
