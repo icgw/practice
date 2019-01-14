@@ -26,6 +26,7 @@
 #define EXAMPLE279 "0279._Perfect_Squares/example.cpp"
 #define EXAMPLE283 "0283._Move_Zeroes/example.cpp"
 #define EXAMPLE287 "0287._Find_the_Duplicate_Number/example.cpp"
+#define EXAMPLE289 "0289._Game_of_Life/example.cpp"
 #define EXAMPLE297 "0297._Serialize_and_Deserialize_Binary_Tree/example.cpp"
 #define EXAMPLE300 "0300._Longest_Increasing_Subsequence/example.cpp"
 #define EXAMPLE301 "0301._Remove_Invalid_Parentheses/example.cpp"
