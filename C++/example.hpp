@@ -35,6 +35,7 @@
 #define EXAMPLE322 "0322._Coin_Change/example.cpp"
 #define EXAMPLE324 "0324._Wiggle_Sort_II/example.cpp"
 #define EXAMPLE326 "0326._Power_of_Three/example.cpp"
+#define EXAMPLE328 "0328._Odd_Even_Linked_List/example.cpp"
 #define EXAMPLE337 "0337._House_Robber_III/example.cpp"
 #define EXAMPLE338 "0338._Counting_Bits/example.cpp"
 #define EXAMPLE347 "0347._Top_K_Frequent_Elements/example.cpp"
