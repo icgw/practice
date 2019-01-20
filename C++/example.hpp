@@ -39,6 +39,7 @@
 #define EXAMPLE334 "0334._Increasing_Triplet_Subsequence/example.cpp"
 #define EXAMPLE337 "0337._House_Robber_III/example.cpp"
 #define EXAMPLE338 "0338._Counting_Bits/example.cpp"
+#define EXAMPLE341 "0341._Flatten_Nested_List_Iterator/example.cpp"
 #define EXAMPLE347 "0347._Top_K_Frequent_Elements/example.cpp"
 #define EXAMPLE350 "0350._Intersection_of_Two_Arrays_II/example.cpp"
 #define EXAMPLE371 "0371._Sum_of_Two_Integers/example.cpp"
