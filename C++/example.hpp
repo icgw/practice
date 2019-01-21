@@ -43,6 +43,7 @@
 #define EXAMPLE347 "0347._Top_K_Frequent_Elements/example.cpp"
 #define EXAMPLE350 "0350._Intersection_of_Two_Arrays_II/example.cpp"
 #define EXAMPLE371 "0371._Sum_of_Two_Integers/example.cpp"
+#define EXAMPLE387 "0387._First_Unique_Character_in_a_String/example.cpp"
 #define EXAMPLE394 "0394._Decode_String/example.cpp"
 #define EXAMPLE406 "0406._Queue_Reconstruction_by_Height/example.cpp"
 #define EXAMPLE416 "0416._Partition_Equal_Subset_Sum/example.cpp"
