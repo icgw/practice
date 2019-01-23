@@ -44,6 +44,7 @@
 #define EXAMPLE350 "0350._Intersection_of_Two_Arrays_II/example.cpp"
 #define EXAMPLE371 "0371._Sum_of_Two_Integers/example.cpp"
 #define EXAMPLE378 "0378._Kth_Smallest_Element_in_a_Sorted_Matrix/example.cpp"
+#define EXAMPLE380 "0380._Insert_Delete_GetRandom_O_1_/example.cpp"
 #define EXAMPLE387 "0387._First_Unique_Character_in_a_String/example.cpp"
 #define EXAMPLE394 "0394._Decode_String/example.cpp"
 #define EXAMPLE406 "0406._Queue_Reconstruction_by_Height/example.cpp"
