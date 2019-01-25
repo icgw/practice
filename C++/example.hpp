@@ -48,6 +48,7 @@
 #define EXAMPLE384 "0384._Shuffle_an_Array/example.cpp"
 #define EXAMPLE387 "0387._First_Unique_Character_in_a_String/example.cpp"
 #define EXAMPLE394 "0394._Decode_String/example.cpp"
+#define EXAMPLE395 "0395._Longest_Substring_with_At_Least_K_Repeating_Characters/example.cpp"
 #define EXAMPLE406 "0406._Queue_Reconstruction_by_Height/example.cpp"
 #define EXAMPLE416 "0416._Partition_Equal_Subset_Sum/example.cpp"
 #define EXAMPLE437 "0437._Path_Sum_III/example.cpp"
