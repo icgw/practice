@@ -67,6 +67,7 @@
 #define EXAMPLE621 "0621._Task_Scheduler/example.cpp"
 #define EXAMPLE647 "0647._Palindromic_Substrings/example.cpp"
 #define EXAMPLE771 "0771._Jewels_and_Stones/example.cpp"
+#define EXAMPLE929 "0929._Unique_Email_Addresses/example.cpp"
 
 #define RUN_EXAMPLE run_example();
 
