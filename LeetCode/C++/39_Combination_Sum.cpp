@@ -37,6 +37,7 @@ class Solution {
 
 			if (t == 0){
 				ans.push_back(curr);
+				return;
 			}
 
 			for (int i = start; i < candidates.size(); ++i){
