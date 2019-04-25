@@ -70,6 +70,8 @@
 #define EXAMPLE771 "0771._Jewels_and_Stones/example.cpp"
 #define EXAMPLE929 "0929._Unique_Email_Addresses/example.cpp"
 
+#define EXAMPLE1030 "1030._Matrix_Cells_in_Distance_Order/example.cpp"
+
 #define RUN_EXAMPLE run_example();
 
 #endif
