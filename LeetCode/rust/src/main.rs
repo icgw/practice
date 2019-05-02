@@ -1,7 +1,9 @@
-mod _0709_to_lower_case_;
+mod _0905_sort_array_by_parity_;
 
 fn main() {
-  let hello = String::from("Hello");
-  let ans = _0709_to_lower_case_::Solution::to_lower_case(hello);
-  println!("{}", ans);
+  let a = vec![ 3, 1, 2, 4 ];
+  let ans = _0905_sort_array_by_parity_::Solution::sort_array_by_parity(a);
+  for x in ans {
+    println!("{}", x);
+  }
 }
