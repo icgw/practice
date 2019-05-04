@@ -46,11 +46,11 @@ int main()
         Mice maxm;
         maxm.weight = -1;
 
-        int rk = (sz + Ng - 1) / Ng;
+        int rk = (sz + Ng - 1) / Ng + 1;
         for (int k = 1; k <= sz; ++k) {
             Mice tmp = q.front();
             q.pop();
-            m[tmp.order].rank = rk + 1;
+            m[tmp.order].rank = rk;
             if (tmp.weight > maxm.weight) {
                 maxm = tmp;
             }
