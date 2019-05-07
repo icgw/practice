@@ -68,11 +68,14 @@
 #define EXAMPLE621 "0621._Task_Scheduler/example.cpp"
 #define EXAMPLE647 "0647._Palindromic_Substrings/example.cpp"
 #define EXAMPLE771 "0771._Jewels_and_Stones/example.cpp"
+#define EXAMPLE905 "0905._Sort_Array_By_Parity/example.cpp"
 #define EXAMPLE929 "0929._Unique_Email_Addresses/example.cpp"
 
+#define EXAMPLE1021 "1021._Remove_Outermost_Parentheses/example.cpp"
 #define EXAMPLE1029 "1029._Two_City_Scheduling/example.cpp"
 #define EXAMPLE1030 "1030._Matrix_Cells_in_Distance_Order/example.cpp"
 #define EXAMPLE1033 "1033._Moving_Stones_Until_Consecutive/example.cpp"
+#define EXAMPLE1037 "1037._Valid_Boomerang/example.cpp"
 
 #define RUN_EXAMPLE run_example();
 
