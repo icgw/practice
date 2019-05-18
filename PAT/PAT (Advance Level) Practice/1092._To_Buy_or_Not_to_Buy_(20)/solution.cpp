@@ -1,0 +1,1 @@
+../../PAT (Basic Level) Practice （中文）/1039._到底买不买（20）/solution.cpp
