@@ -78,6 +78,7 @@
 #define EXAMPLE1033 "1033._Moving_Stones_Until_Consecutive/example.cpp"
 #define EXAMPLE1037 "1037._Valid_Boomerang/example.cpp"
 #define EXAMPLE1041 "1041._Robot_Bounded_In_Circle/example.cpp"
+#define EXAMPLE1042 "1042._Flower_Planting_With_No_Adjacent/example.cpp"
 
 #define RUN_EXAMPLE run_example();
 
