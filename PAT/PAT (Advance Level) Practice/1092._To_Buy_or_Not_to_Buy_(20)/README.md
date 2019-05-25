@@ -4,7 +4,7 @@ Eva would like to make a string of beads with her favorite colors so she went to
 
 For the sake of simplicity, let's use the characters in the ranges [0-9], [a-z], and [A-Z] to represent the colors. For example, the 3rd string in Figure 1 is the one that Eva would like to make. Then the 1st string is okay since it contains all the necessary beads with 8 extra ones; yet the 2nd one is not since there is no black bead and one less red bead.
 
-![figbug](../../PAT\ \(Basic\ Level\)\ Practice\ （中文）/assets/figbuy.jpg)
+![figbug](../../PAT%20(Basic%20Level)%20Practice%20%EF%BC%88%E4%B8%AD%E6%96%87%EF%BC%89/assets/figbuy.jpg)
 
 ## Input Specification:
 Each input file contains one test case. Each case gives in two lines the strings of no more than 1000 beads which belong to the shop owner and Eva, respectively.
