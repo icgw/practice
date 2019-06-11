@@ -83,6 +83,7 @@
 #define EXAMPLE1046 "1046._Last_Stone_Weight/example.cpp"
 #define EXAMPLE1051 "1051._Height_Checker/example.cpp"
 #define EXAMPLE1071 "1071._Greatest_Common_Divisor_of_Strings/example.cpp"
+#define EXAMPLE1078 "1078._Occurrences_After_Bigram/example.cpp"
 
 #define RUN_EXAMPLE run_example();
 
