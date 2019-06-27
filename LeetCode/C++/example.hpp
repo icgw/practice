@@ -70,6 +70,7 @@
 #define EXAMPLE647 "0647._Palindromic_Substrings/example.cpp"
 #define EXAMPLE771 "0771._Jewels_and_Stones/example.cpp"
 #define EXAMPLE804 "0804._Unique_Morse_Code_Words/example.cpp"
+#define EXAMPLE832 "0832._Flipping_an_Image/example.cpp"
 #define EXAMPLE905 "0905._Sort_Array_By_Parity/example.cpp"
 #define EXAMPLE929 "0929._Unique_Email_Addresses/example.cpp"
 
