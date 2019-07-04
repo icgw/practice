@@ -87,6 +87,7 @@
 #define EXAMPLE1071 "1071._Greatest_Common_Divisor_of_Strings/example.cpp"
 #define EXAMPLE1078 "1078._Occurrences_After_Bigram/example.cpp"
 #define EXAMPLE1089 "1089._Duplicate_Zeros/example.cpp"
+#define EXAMPLE1103 "1103._Distribute_Candies_to_People/example.cpp"
 
 #define RUN_EXAMPLE run_example();
 
