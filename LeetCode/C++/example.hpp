@@ -13,6 +13,7 @@
 
 #define EXAMPLE124 "0124._Binary_Tree_Maximum_Path_Sum/example.cpp"
 #define EXAMPLE128 "0128._Longest_Consecutive_Sequence/example.cpp"
+#define EXAMPLE139 "0139._Word_Break/example.cpp"
 #define EXAMPLE140 "0140._Word_Break_II/example.cpp"
 #define EXAMPLE146 "0146._LRU_Cache/example.cpp"
 
@@ -88,6 +89,7 @@
 #define EXAMPLE1078 "1078._Occurrences_After_Bigram/example.cpp"
 #define EXAMPLE1089 "1089._Duplicate_Zeros/example.cpp"
 #define EXAMPLE1103 "1103._Distribute_Candies_to_People/example.cpp"
+#define EXAMPLE1114 "1114._Print_in_Order/example.cpp"
 
 #define RUN_EXAMPLE run_example();
 
