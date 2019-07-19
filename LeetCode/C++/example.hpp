@@ -90,6 +90,7 @@
 #define EXAMPLE1089 "1089._Duplicate_Zeros/example.cpp"
 #define EXAMPLE1103 "1103._Distribute_Candies_to_People/example.cpp"
 #define EXAMPLE1114 "1114._Print_in_Order/example.cpp"
+#define EXAMPLE1122 "1122._Relative_Sort_Array/example.cpp"
 
 #define RUN_EXAMPLE run_example();
 
