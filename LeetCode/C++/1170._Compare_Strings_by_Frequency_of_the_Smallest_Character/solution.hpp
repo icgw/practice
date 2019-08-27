@@ -26,15 +26,20 @@ public:
     }
     return 0;
   }
-  
+
   int countLess(int n, vector<int> ws) {
-    int cnt = 0;
-    for (int i : ws) {
-      if (n < i) {
-        ++cnt;
+    if (ws.empty()) return 0;
+    int sz = ws.size();
+    int lo = 0, hi = sz - 1;
+    while (lo <= hi) {
+      int m = lo + (hi - lo) / 2;
+      if (ws[m] <= n) {
+        lo = m + 1;
+      } else {
+        hi = m - 1;
       }
     }
-    return cnt;
+    return sz - lo;
   }
 
   vector<int> numSmallerByFrequency(vector<string>& queries, vector<string>& words) {
@@ -49,6 +54,7 @@ public:
     }
 
     vector<int> ans;
+    sort(n_words.begin(), n_words.end());
     for (int nq : n_queries) {
       ans.push_back(countLess(nq, n_words));
     }
