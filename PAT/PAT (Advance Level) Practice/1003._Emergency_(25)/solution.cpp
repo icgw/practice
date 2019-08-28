@@ -11,6 +11,18 @@
 
 using namespace std;
 
+//  -> 0(1) --[1]-- 1(2)
+//     |   \        /
+//    [1]   [2]   [1]
+//     |      \   /
+//     3(5)    2(1) <-
+//      \       /
+//      [1]   [1]
+//        \   /
+//         4(3)
+
+// answer: 0 -> 1 -> 2 ( 1 + 2 + 1 = 4 )
+
 int main() {
   // vector<int> teamNbOfCities;
   // vector<vector<int>> lenOfRoads;
