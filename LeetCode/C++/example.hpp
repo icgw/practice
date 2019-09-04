@@ -75,6 +75,7 @@
 #define EXAMPLE852 "0852._Peak_Index_in_a_Mountain_Array/example.cpp"
 #define EXAMPLE905 "0905._Sort_Array_By_Parity/example.cpp"
 #define EXAMPLE929 "0929._Unique_Email_Addresses/example.cpp"
+#define EXAMPLE937 "0937._Reorder_Data_in_Log_Files/example.cpp"
 
 #define EXAMPLE1021 "1021._Remove_Outermost_Parentheses/example.cpp"
 #define EXAMPLE1029 "1029._Two_City_Scheduling/example.cpp"
