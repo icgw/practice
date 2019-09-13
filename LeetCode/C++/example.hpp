@@ -92,6 +92,7 @@
 #define EXAMPLE1051 "1051._Height_Checker/example.cpp"
 #define EXAMPLE1071 "1071._Greatest_Common_Divisor_of_Strings/example.cpp"
 #define EXAMPLE1078 "1078._Occurrences_After_Bigram/example.cpp"
+#define EXAMPLE1087 "1087._Brace_Expansion/example.cpp"
 #define EXAMPLE1089 "1089._Duplicate_Zeros/example.cpp"
 #define EXAMPLE1103 "1103._Distribute_Candies_to_People/example.cpp"
 #define EXAMPLE1114 "1114._Print_in_Order/example.cpp"
