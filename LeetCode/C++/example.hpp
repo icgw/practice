@@ -29,6 +29,7 @@
 #define EXAMPLE242 "0242._Valid_Anagram/example.cpp"
 #define EXAMPLE253 "0253._Meeting_Rooms_II/example.cpp"
 #define EXAMPLE268 "0268._Missing_Number/example.cpp"
+#define EXAMPLE271 "0271._Encode_and_Decode_Strings/example.cpp"
 #define EXAMPLE279 "0279._Perfect_Squares/example.cpp"
 #define EXAMPLE283 "0283._Move_Zeroes/example.cpp"
 #define EXAMPLE287 "0287._Find_the_Duplicate_Number/example.cpp"
