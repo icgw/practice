@@ -2,6 +2,7 @@
 #define __EXAMPLE__
 
 #define EXAMPLE1 "0001._Two_Sum/example.cpp"
+#define EXAMPLE4 "0004._Median_of_Two_Sorted_Arrays/example.cpp"
 
 #define EXAMPLE41 "0041._First_Missing_Positive/example.cpp"
 #define EXAMPLE42 "0042._Trapping_Rain_Water/example.cpp"
@@ -49,6 +50,7 @@
 #define EXAMPLE345 "0345._Reverse_Vowels_of_a_String/example.cpp"
 #define EXAMPLE347 "0347._Top_K_Frequent_Elements/example.cpp"
 #define EXAMPLE350 "0350._Intersection_of_Two_Arrays_II/example.cpp"
+#define EXAMPLE359 "0359._Logger_Rate_Limiter/example.cpp"
 #define EXAMPLE371 "0371._Sum_of_Two_Integers/example.cpp"
 #define EXAMPLE378 "0378._Kth_Smallest_Element_in_a_Sorted_Matrix/example.cpp"
 #define EXAMPLE380 "0380._Insert_Delete_GetRandom_O_1_/example.cpp"
