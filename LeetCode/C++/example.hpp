@@ -94,6 +94,7 @@
 #define EXAMPLE1042 "1042._Flower_Planting_With_No_Adjacent/example.cpp"
 #define EXAMPLE1046 "1046._Last_Stone_Weight/example.cpp"
 #define EXAMPLE1051 "1051._Height_Checker/example.cpp"
+#define EXAMPLE1055 "1055._Shortest_Way_to_Form_String/example.cpp"
 #define EXAMPLE1071 "1071._Greatest_Common_Divisor_of_Strings/example.cpp"
 #define EXAMPLE1078 "1078._Occurrences_After_Bigram/example.cpp"
 #define EXAMPLE1087 "1087._Brace_Expansion/example.cpp"
