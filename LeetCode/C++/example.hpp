@@ -51,6 +51,7 @@
 #define EXAMPLE341 "0341._Flatten_Nested_List_Iterator/example.cpp"
 #define EXAMPLE345 "0345._Reverse_Vowels_of_a_String/example.cpp"
 #define EXAMPLE347 "0347._Top_K_Frequent_Elements/example.cpp"
+#define EXAMPLE348 "0348._Design_Tic-Tac-Toe/example.cpp"
 #define EXAMPLE350 "0350._Intersection_of_Two_Arrays_II/example.cpp"
 #define EXAMPLE359 "0359._Logger_Rate_Limiter/example.cpp"
 #define EXAMPLE371 "0371._Sum_of_Two_Integers/example.cpp"
