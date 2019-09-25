@@ -28,6 +28,7 @@
 #define EXAMPLE237 "0237._Delete_Node_in_a_Linked_List/example.cpp"
 #define EXAMPLE239 "0239._Sliding_Window_Maximum/example.cpp"
 #define EXAMPLE242 "0242._Valid_Anagram/example.cpp"
+#define EXAMPLE251 "0251._Flatten_2D_Vector/example.cpp"
 #define EXAMPLE253 "0253._Meeting_Rooms_II/example.cpp"
 #define EXAMPLE268 "0268._Missing_Number/example.cpp"
 #define EXAMPLE271 "0271._Encode_and_Decode_Strings/example.cpp"
