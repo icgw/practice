@@ -108,6 +108,7 @@
 #define EXAMPLE1154 "1154._Day_of_the_Year/example.cpp"
 #define EXAMPLE1160 "1160._Find_Words_That_Can_Be_Formed_by_Characters/example.cpp"
 #define EXAMPLE1170 "1170._Compare_Strings_by_Frequency_of_the_Smallest_Character/example.cpp"
+#define EXAMPLE1119 "1119._Remove_Vowels_from_a_String/example.cpp"
 
 #define RUN_EXAMPLE run_example();
 
