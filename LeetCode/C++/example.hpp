@@ -79,6 +79,7 @@
 #define EXAMPLE621 "0621._Task_Scheduler/example.cpp"
 #define EXAMPLE647 "0647._Palindromic_Substrings/example.cpp"
 #define EXAMPLE739 "0739._Daily_Temperatures/example.cpp"
+#define EXAMPLE760 "0760._Find_Anagram_Mappings/example.cpp"
 #define EXAMPLE771 "0771._Jewels_and_Stones/example.cpp"
 #define EXAMPLE804 "0804._Unique_Morse_Code_Words/example.cpp"
 #define EXAMPLE832 "0832._Flipping_an_Image/example.cpp"
