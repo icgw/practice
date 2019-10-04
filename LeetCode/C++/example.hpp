@@ -112,6 +112,7 @@
 #define EXAMPLE1170 "1170._Compare_Strings_by_Frequency_of_the_Smallest_Character/example.cpp"
 #define EXAMPLE1119 "1119._Remove_Vowels_from_a_String/example.cpp"
 #define EXAMPLE1165 "1165._Single-Row_Keyboard/example.cpp"
+#define EXAMPLE1180 "1180._Count_Substrings_with_Only_One_Distinct_Letter/example.cpp"
 
 #define RUN_EXAMPLE run_example();
 
