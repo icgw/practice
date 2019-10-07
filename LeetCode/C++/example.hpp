@@ -114,6 +114,7 @@
 #define EXAMPLE1119 "1119._Remove_Vowels_from_a_String/example.cpp"
 #define EXAMPLE1165 "1165._Single-Row_Keyboard/example.cpp"
 #define EXAMPLE1180 "1180._Count_Substrings_with_Only_One_Distinct_Letter/example.cpp"
+#define EXAMPLE1213 "1213._Intersection_of_Three_Sorted_Arrays/example.cpp"
 
 #define RUN_EXAMPLE run_example();
 
