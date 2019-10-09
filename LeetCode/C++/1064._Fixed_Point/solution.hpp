@@ -14,9 +14,21 @@ using std::vector;
 class Solution {
 public:
   int fixedPoint(vector<int>& A) {
-    int n = A.size();
-    for (int i = 0; i < n; ++i) {
-      if (A[i] == i) return i;
+    int lo = 0, hi = A.size() - 1;
+    while (lo <= hi) {
+      if (A[lo] == lo) return lo;
+
+      int mid = lo + (hi - lo) / 2;
+      if (A[mid] > mid) {
+        hi = mid - 1;
+      }
+      else if (A[mid] < mid) {
+        lo = mid + 1;
+      }
+      else { // A[mid] == mid
+        ++lo;
+        hi = mid;
+      }
     }
     return -1;
   }
