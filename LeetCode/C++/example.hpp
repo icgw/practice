@@ -107,6 +107,7 @@
 #define EXAMPLE1086 "1086._High_Five/example.cpp"
 #define EXAMPLE1087 "1087._Brace_Expansion/example.cpp"
 #define EXAMPLE1089 "1089._Duplicate_Zeros/example.cpp"
+#define EXAMPLE1099 "1099._Two_Sum_Less_Than_K/example.cpp"
 #define EXAMPLE1103 "1103._Distribute_Candies_to_People/example.cpp"
 #define EXAMPLE1114 "1114._Print_in_Order/example.cpp"
 #define EXAMPLE1122 "1122._Relative_Sort_Array/example.cpp"
