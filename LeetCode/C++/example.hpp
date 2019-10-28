@@ -101,6 +101,7 @@
 #define EXAMPLE1055 "1055._Shortest_Way_to_Form_String/example.cpp"
 #define EXAMPLE1057 "1057._Campus_Bikes/example.cpp"
 #define EXAMPLE1064 "1064._Fixed_Point/example.cpp"
+#define EXAMPLE1065 "1065._Index_Pairs_of_a_String/example.cpp"
 #define EXAMPLE1071 "1071._Greatest_Common_Divisor_of_Strings/example.cpp"
 #define EXAMPLE1078 "1078._Occurrences_After_Bigram/example.cpp"
 #define EXAMPLE1085 "1085._Sum_of_Digits_in_the_Minimum_Number/example.cpp"
