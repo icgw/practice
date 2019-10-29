@@ -99,6 +99,7 @@
 #define EXAMPLE1046 "1046._Last_Stone_Weight/example.cpp"
 #define EXAMPLE1051 "1051._Height_Checker/example.cpp"
 #define EXAMPLE1055 "1055._Shortest_Way_to_Form_String/example.cpp"
+#define EXAMPLE1056 "1056._Confusing_Number/example.cpp"
 #define EXAMPLE1057 "1057._Campus_Bikes/example.cpp"
 #define EXAMPLE1064 "1064._Fixed_Point/example.cpp"
 #define EXAMPLE1065 "1065._Index_Pairs_of_a_String/example.cpp"
