@@ -47,6 +47,7 @@
 #define EXAMPLE324 "0324._Wiggle_Sort_II/example.cpp"
 #define EXAMPLE326 "0326._Power_of_Three/example.cpp"
 #define EXAMPLE328 "0328._Odd_Even_Linked_List/example.cpp"
+#define EXAMPLE329 "0329._Longest_Increasing_Path_in_a_Matrix/example.cpp"
 #define EXAMPLE334 "0334._Increasing_Triplet_Subsequence/example.cpp"
 #define EXAMPLE337 "0337._House_Robber_III/example.cpp"
 #define EXAMPLE338 "0338._Counting_Bits/example.cpp"
