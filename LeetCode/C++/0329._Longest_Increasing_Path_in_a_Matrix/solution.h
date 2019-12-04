@@ -15,10 +15,10 @@ using std::numeric_limits;
 #include <algorithm>
 using std::max;
 
-// Status: Time Limit Exceeded (135 / 138 test cases passed)
 class Solution {
 private:
   int longestIncreasingPathHelper(vector<vector<int>>& matrix,
+                                  vector<vector<int>>& cached,
                                   int i, int j,
                                   int m, int n,
                                   int v, int l // v: the current integer, l: the length
@@ -28,15 +28,19 @@ private:
     int curr = matrix[i][j];
     if (curr == numeric_limits<int>::min() || (curr <= v && l != 0)) return l;
 
+    if (cached[i][j] > 0) return l + cached[i][j];
+
     matrix[i][j] = numeric_limits<int>::min();
     int up, down, left, right;
-    up    = longestIncreasingPathHelper(matrix, i - 1, j, m, n, curr, l + 1);
-    down  = longestIncreasingPathHelper(matrix, i + 1, j, m, n, curr, l + 1);
-    left  = longestIncreasingPathHelper(matrix, i, j - 1, m, n, curr, l + 1);
-    right = longestIncreasingPathHelper(matrix, i, j + 1, m, n, curr, l + 1);
+    up    = longestIncreasingPathHelper(matrix, cached, i - 1, j, m, n, curr, l + 1);
+    down  = longestIncreasingPathHelper(matrix, cached, i + 1, j, m, n, curr, l + 1);
+    left  = longestIncreasingPathHelper(matrix, cached, i, j - 1, m, n, curr, l + 1);
+    right = longestIncreasingPathHelper(matrix, cached, i, j + 1, m, n, curr, l + 1);
     matrix[i][j] = curr;
 
-    return max(up, max(down, max(left, right)));
+    cached[i][j] = max(up, max(down, max(left, right))) - l;
+
+    return cached[i][j] + l;
   }
 
 public:
@@ -46,9 +50,10 @@ public:
 
       int n = matrix[0].size(), longest = 0;
 
+      vector<vector<int>> cached (m, vector<int>(n, 0));
       for (int i = 0; i < m; ++i) {
         for (int j = 0; j < n; ++j) {
-          longest = max(longest, longestIncreasingPathHelper(matrix, i, j, m, n, numeric_limits<int>::min(), 0));
+          longest = max(longest, longestIncreasingPathHelper(matrix, cached, i, j, m, n, numeric_limits<int>::min(), 0));
         }
       }
 
