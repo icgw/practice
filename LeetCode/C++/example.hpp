@@ -17,6 +17,7 @@
 #define EXAMPLE139 "0139._Word_Break/example.cpp"
 #define EXAMPLE140 "0140._Word_Break_II/example.cpp"
 #define EXAMPLE146 "0146._LRU_Cache/example.cpp"
+#define EXAMPLE149 "0149._Max_Points_on_a_Line/example.cpp"
 #define EXAMPLE163 "0163._Missing_Ranges/example.cpp"
 
 #define EXAMPLE202 "0202._Happy_Number/example.cpp"
