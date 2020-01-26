@@ -131,6 +131,7 @@
 #define EXAMPLE1228 "1228._Missing_Number_In_Arithmetic_Progression/example.cpp"
 #define EXAMPLE1266 "1266._Minimum_Time_Visiting_All_Points/example.cpp"
 #define EXAMPLE1313 "1313._Decompress_Run_Length_Encoded_List/example.cpp"
+#define EXAMPLE1331 "1331._Rank_Transform_of_an_Array/example.cpp"
 
 #define RUN_EXAMPLE run_example();
 
