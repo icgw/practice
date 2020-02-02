@@ -133,6 +133,8 @@
 #define EXAMPLE1313 "1313._Decompress_Run_Length_Encoded_List/example.cpp"
 #define EXAMPLE1331 "1331._Rank_Transform_of_an_Array/example.cpp"
 
+#define EXAMPLE5328 "5328._The_K_Weakest_Rows_in_a_Matrix/example.cpp"
+
 #define RUN_EXAMPLE run_example();
 
 #endif
