@@ -132,8 +132,7 @@
 #define EXAMPLE1266 "1266._Minimum_Time_Visiting_All_Points/example.cpp"
 #define EXAMPLE1313 "1313._Decompress_Run_Length_Encoded_List/example.cpp"
 #define EXAMPLE1331 "1331._Rank_Transform_of_an_Array/example.cpp"
-
-#define EXAMPLE5328 "5328._The_K_Weakest_Rows_in_a_Matrix/example.cpp"
+#define EXAMPLE1337 "1337._The_K_Weakest_Rows_in_a_Matrix/example.cpp"
 
 #define RUN_EXAMPLE run_example();
 
