@@ -136,6 +136,7 @@
 #define EXAMPLE1342 "1342._Number_of_Steps_to_Reduce_a_Number_to_Zero/example.cpp"
 #define EXAMPLE1346 "1346._Check_If_N_and_Its_Double_Exist/example.cpp"
 #define EXAMPLE1351 "1351._Count_Negative_Numbers_in_a_Sorted_Matrix/example.cpp"
+#define EXAMPLE1365 "1365._How_Many_Numbers_Are_Smaller_Than_the_Current_Number/example.cpp"
 
 #define RUN_EXAMPLE run_example();
 
