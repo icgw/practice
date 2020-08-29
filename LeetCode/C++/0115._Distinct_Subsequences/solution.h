@@ -18,16 +18,15 @@ class Solution {
 public:
   int numDistinct(string s, string t) {
     int tn = t.size(), sn = s.size();
-    vector<vector<long>> dp (tn + 1, vector<long>(sn + 1, 0));
-    for (int j = 0; j <= sn; ++j) dp[0][j] = 1;
+    vector<long> dp (tn + 1, 0); dp[0] = 1;
 
     for (int j = 1; j <= sn; ++j) {
-      for (int i = 1; i <= tn; ++i) {
-        dp[i][j] = dp[i][j - 1] + ((t[i - 1] == s[j - 1]) ? dp[i - 1][j - 1] : 0);
+      for (int i = tn; i >= 1; --i) {
+        dp[i] = dp[i] + ((t[i - 1] == s[j - 1]) ? dp[i - 1] : 0);
       }
     }
 
-    return dp[tn][sn];
+    return dp[tn];
   }
 };
 
