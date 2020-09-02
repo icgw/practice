@@ -51,6 +51,7 @@
 #define EXAMPLE309 "0309._Best_Time_to_Buy_and_Sell_Stock_with_Cooldown/example.cpp"
 #define EXAMPLE312 "0312._Burst_Balloons/example.cpp"
 #define EXAMPLE315 "0315._Count_of_Smaller_Numbers_After_Self/example.cpp"
+#define EXAMPLE321 "0321._Create_Maximum_Number/example.cpp"
 #define EXAMPLE322 "0322._Coin_Change/example.cpp"
 #define EXAMPLE324 "0324._Wiggle_Sort_II/example.cpp"
 #define EXAMPLE326 "0326._Power_of_Three/example.cpp"
