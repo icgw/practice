@@ -36,13 +36,14 @@ private:
 
   vector<int> maxNumber(vector<int> nums1, vector<int> nums2) {
     vector<int> res;
+    int n1 = nums1.size(), n2 = nums2.size();
     while (nums1.size() + nums2.size() > 0) {
       auto& nums = ((nums1 > nums2) ? nums1 : nums2);
       res.push_back(nums[0]);
       nums.erase(nums.begin());
     }
 
-    res.resize(nums1.size() + nums2.size());
+    res.resize(n1 + n2);
     return res;
   }
 
