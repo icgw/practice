@@ -147,6 +147,7 @@
 #define EXAMPLE1551 "1551._Minimum_Operations_to_Make_Array_Equal/example.cpp"
 #define EXAMPLE1561 "1561._Maximum_Number_of_Coins_You_Can_Get/example.cpp"
 #define EXAMPLE1563 "1563._Stone_Game_V/example.cpp"
+#define EXAMPLE1566 "1566._Detect_Pattern_of_Length_M_Repeated_K_or_More_Times/example.cpp"
 
 #define RUN_EXAMPLE run_example();
 
