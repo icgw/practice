@@ -150,6 +150,7 @@
 #define EXAMPLE1563 "1563._Stone_Game_V/example.cpp"
 #define EXAMPLE1566 "1566._Detect_Pattern_of_Length_M_Repeated_K_or_More_Times/example.cpp"
 #define EXAMPLE1572 "1572._Matrix_Diagonal_Sum/example.cpp"
+#define EXAMPLE1588 "1588._Sum_of_All_Odd_Length_Subarrays/example.cpp"
 
 #define RUN_EXAMPLE run_example();
 
