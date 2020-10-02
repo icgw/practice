@@ -4,6 +4,8 @@
 #define EXAMPLE1 "0001._Two_Sum/example.cpp"
 #define EXAMPLE4 "0004._Median_of_Two_Sorted_Arrays/example.cpp"
 
+#define EXAMPLE15 "0015._3Sum/example.cpp"
+
 #define EXAMPLE41 "0041._First_Missing_Positive/example.cpp"
 #define EXAMPLE42 "0042._Trapping_Rain_Water/example.cpp"
 #define EXAMPLE44 "0044._Wildcard_Matching/example.cpp"
