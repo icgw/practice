@@ -126,6 +126,7 @@
 #define EXAMPLE1089 "1089._Duplicate_Zeros/example.cpp"
 #define EXAMPLE1099 "1099._Two_Sum_Less_Than_K/example.cpp"
 #define EXAMPLE1103 "1103._Distribute_Candies_to_People/example.cpp"
+#define EXAMPLE1106 "1106._Parsing_A_Boolean_Expression/example.cpp"
 #define EXAMPLE1114 "1114._Print_in_Order/example.cpp"
 #define EXAMPLE1122 "1122._Relative_Sort_Array/example.cpp"
 #define EXAMPLE1133 "1133._Largest_Unique_Number/example.cpp"
