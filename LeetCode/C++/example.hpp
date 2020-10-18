@@ -159,6 +159,7 @@
 #define EXAMPLE1608 "1608._Special_Array_With_X_Elements_Greater_Than_or_Equal_X/example.cpp"
 #define EXAMPLE1609 "1609._Even_Odd_Tree/example.cpp"
 #define EXAMPLE1610 "1610._Maximum_Number_of_Visible_Points/example.cpp"
+#define EXAMPLE1626 "1626._Best_Team_With_No_Conflicts/example.cpp"
 
 #define RUN_EXAMPLE run_example();
 
