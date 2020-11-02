@@ -97,6 +97,7 @@
 #define EXAMPLE763 "0763._Partition_Labels/example.cpp"
 #define EXAMPLE771 "0771._Jewels_and_Stones/example.cpp"
 #define EXAMPLE804 "0804._Unique_Morse_Code_Words/example.cpp"
+#define EXAMPLE820 "0820._Short_Encoding_of_Words/example.cpp"
 #define EXAMPLE832 "0832._Flipping_an_Image/example.cpp"
 #define EXAMPLE852 "0852._Peak_Index_in_a_Mountain_Array/example.cpp"
 #define EXAMPLE877 "0877._Stone_Game/example.cpp"
