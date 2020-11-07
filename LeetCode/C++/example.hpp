@@ -87,6 +87,7 @@
 #define EXAMPLE494 "0494._Target_Sum/example.cpp"
 #define EXAMPLE538 "0538._Convert_BST_to_Greater_Tree/example.cpp"
 #define EXAMPLE543 "0543._Diameter_of_Binary_Tree/example.cpp"
+#define EXAMPLE554 "0554._Brick_Wall/example.cpp"
 #define EXAMPLE560 "0560._Subarray_Sum_Equals_K/example.cpp"
 #define EXAMPLE572 "0572._Subtree_of_Another_Tree/example.cpp"
 #define EXAMPLE581 "0581._Shortest_Unsorted_Continuous_Subarray/example.cpp"
