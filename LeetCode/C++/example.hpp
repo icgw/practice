@@ -162,6 +162,7 @@
 #define EXAMPLE1609 "1609._Even_Odd_Tree/example.cpp"
 #define EXAMPLE1610 "1610._Maximum_Number_of_Visible_Points/example.cpp"
 #define EXAMPLE1626 "1626._Best_Team_With_No_Conflicts/example.cpp"
+#define EXAMPLE1665 "1665._Minimum_Initial_Energy_to_Finish_Tasks/example.cpp"
 
 #define RUN_EXAMPLE run_example();
 

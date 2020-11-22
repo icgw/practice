@@ -1,7 +1,7 @@
-EXAMPLE = EXAMPLE554
+EXAMPLE = EXAMPLE1665
 
 # 设置编译器选项
-CXXFLAGS = -std=c++11
+CXXFLAGS = -std=c++14
 # 设置预处理器选项
 CPPFLAGS = -D EXAMPLE=$(EXAMPLE)
 
