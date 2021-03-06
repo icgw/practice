@@ -163,6 +163,7 @@
 #define EXAMPLE1609 "1609._Even_Odd_Tree/example.cpp"
 #define EXAMPLE1610 "1610._Maximum_Number_of_Visible_Points/example.cpp"
 #define EXAMPLE1626 "1626._Best_Team_With_No_Conflicts/example.cpp"
+#define EXAMPLE1647 "1647._Minimum_Deletions_to_Make_Character_Frequencies_Unique/example.cpp"
 #define EXAMPLE1665 "1665._Minimum_Initial_Energy_to_Finish_Tasks/example.cpp"
 #define EXAMPLE1773 "1773._Count_Items_Matching_a_Rule/example.cpp"
 #define EXAMPLE1775 "1775._Equal_Sum_Arrays_With_Minimum_Number_of_Operations/example.cpp"
