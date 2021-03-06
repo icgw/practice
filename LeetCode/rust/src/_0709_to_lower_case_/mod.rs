@@ -4,8 +4,8 @@
  *
  * Distributed under terms of the MIT license.
  */
+use crate::Solution;
 
-pub struct Solution;
 impl Solution {
   pub fn to_lower_case(str: String) -> String {
     str.to_lowercase()
@@ -14,10 +14,10 @@ impl Solution {
 
 #[cfg(test)]
 mod tests {
-  use super::*;
+  use crate::_0709_to_lower_case_::Solution;
 
   #[test]
-  fn it_works() {
+  fn p0709() {
     assert_eq!(Solution::to_lower_case(String::from("LOVELY")), String::from("lovely"));
   }
 }

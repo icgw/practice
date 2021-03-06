@@ -4,9 +4,8 @@
  *
  * Distributed under terms of the MIT license.
  */
+use crate::Solution;
 
-
-pub struct Solution;
 impl Solution {
   pub fn sort_array_by_parity(a: Vec<i32>) -> Vec<i32> {
     let mut ret      = a.clone();
@@ -23,10 +22,10 @@ impl Solution {
 
 #[cfg(test)]
 mod tests {
-  use super::*;
+  use crate::_0905_sort_array_by_parity_::Solution;
 
   #[test]
-  fn it_works() {
+  fn p0905() {
     assert_eq!(Solution::sort_array_by_parity(vec![3, 1, 2, 4]), vec![2, 4, 3, 1]);
   }
 }

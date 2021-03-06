@@ -5,8 +5,8 @@
  * Distributed under terms of the MIT license.
  */
 use std::collections::HashMap;
+use crate::Solution;
 
-pub struct Solution;
 impl Solution {
   pub fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32> {
     let mut seen: HashMap<i32, i32> = HashMap::with_capacity(nums.len());
@@ -22,10 +22,20 @@ impl Solution {
 
 #[cfg(test)]
 mod tests {
-  use super::*;
+  use crate::_0001_two_sum_::Solution;
 
   #[test]
-  fn it_works() {
-    assert_eq!(Solution::two_sum(vec![ 2, 7, 11, 15 ], 9), vec![ 0, 1 ]);
+  fn p0001_example_1() {
+    assert_eq!(Solution::two_sum(vec![2, 7, 11, 15], 9), vec![0, 1]);
+  }
+
+  #[test]
+  fn p0001_example_2() {
+    assert_eq!(Solution::two_sum(vec![3, 2, 4], 6), vec![1, 2]);
+  }
+
+  #[test]
+  fn p0001_example_3() {
+    assert_eq!(Solution::two_sum(vec![3, 3], 6), vec![0, 1]);
   }
 }

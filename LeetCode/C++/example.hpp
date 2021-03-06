@@ -165,6 +165,7 @@
 #define EXAMPLE1626 "1626._Best_Team_With_No_Conflicts/example.cpp"
 #define EXAMPLE1665 "1665._Minimum_Initial_Energy_to_Finish_Tasks/example.cpp"
 #define EXAMPLE1773 "1773._Count_Items_Matching_a_Rule/example.cpp"
+#define EXAMPLE1775 "1775._Equal_Sum_Arrays_With_Minimum_Number_of_Operations/example.cpp"
 
 #define RUN_EXAMPLE run_example();
 
