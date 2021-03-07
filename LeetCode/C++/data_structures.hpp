@@ -3,6 +3,7 @@
 
 #include <queue>
 #include <sstream>
+#include <iostream>
 
 #include <vector>
 using std::vector;
