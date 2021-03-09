@@ -3,6 +3,7 @@
 
 #define EXAMPLE1 "0001._Two_Sum/example.cpp"
 #define EXAMPLE4 "0004._Median_of_Two_Sorted_Arrays/example.cpp"
+#define EXAMPLE6 "0006._ZigZag_Conversion/example.cpp"
 
 #define EXAMPLE15 "0015._3Sum/example.cpp"
 
