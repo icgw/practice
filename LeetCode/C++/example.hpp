@@ -10,6 +10,7 @@
 #define EXAMPLE42 "0042._Trapping_Rain_Water/example.cpp"
 #define EXAMPLE44 "0044._Wildcard_Matching/example.cpp"
 #define EXAMPLE45 "0045._Jump_Game_II/example.cpp"
+#define EXAMPLE69 "0069._Sqrt_x/example.cpp"
 #define EXAMPLE72 "0072._Edit_Distance/example.cpp"
 #define EXAMPLE76 "0076._Minimum_Window_Substring/example.cpp"
 #define EXAMPLE84 "0084._Largest_Rectangle_in_Histogram/example.cpp"
