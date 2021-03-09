@@ -97,6 +97,7 @@
 #define EXAMPLE581 "0581._Shortest_Unsorted_Continuous_Subarray/example.cpp"
 #define EXAMPLE621 "0621._Task_Scheduler/example.cpp"
 #define EXAMPLE647 "0647._Palindromic_Substrings/example.cpp"
+#define EXAMPLE662 "0662._Maximum_Width_of_Binary_Tree/example.cpp"
 #define EXAMPLE739 "0739._Daily_Temperatures/example.cpp"
 #define EXAMPLE746 "0746._Min_Cost_Climbing_Stairs/example.cpp"
 #define EXAMPLE760 "0760._Find_Anagram_Mappings/example.cpp"
