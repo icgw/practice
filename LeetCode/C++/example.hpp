@@ -109,6 +109,7 @@
 #define EXAMPLE929 "0929._Unique_Email_Addresses/example.cpp"
 #define EXAMPLE937 "0937._Reorder_Data_in_Log_Files/example.cpp"
 
+#define EXAMPLE1011 "1011._Capacity_To_Ship_Packages_Within_D_Days/example.cpp"
 #define EXAMPLE1021 "1021._Remove_Outermost_Parentheses/example.cpp"
 #define EXAMPLE1029 "1029._Two_City_Scheduling/example.cpp"
 #define EXAMPLE1030 "1030._Matrix_Cells_in_Distance_Order/example.cpp"
