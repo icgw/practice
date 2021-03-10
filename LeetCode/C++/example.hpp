@@ -7,6 +7,7 @@
 
 #define EXAMPLE15 "0015._3Sum/example.cpp"
 
+#define EXAMPLE33 "0033._Search_in_Rotated_Sorted_Array/example.cpp"
 #define EXAMPLE41 "0041._First_Missing_Positive/example.cpp"
 #define EXAMPLE42 "0042._Trapping_Rain_Water/example.cpp"
 #define EXAMPLE44 "0044._Wildcard_Matching/example.cpp"
