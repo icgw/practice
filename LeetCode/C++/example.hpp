@@ -21,6 +21,7 @@
 #define EXAMPLE99 "0099._Recover_Binary_Search_Tree/example.cpp"
 
 #define EXAMPLE115 "0115._Distinct_Subsequences/example.cpp"
+#define EXAMPLE120 "0120._Triangle/example.cpp"
 #define EXAMPLE123 "0123._Best_Time_to_Buy_and_Sell_Stock_III/example.cpp"
 #define EXAMPLE124 "0124._Binary_Tree_Maximum_Path_Sum/example.cpp"
 #define EXAMPLE128 "0128._Longest_Consecutive_Sequence/example.cpp"
