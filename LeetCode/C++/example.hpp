@@ -37,6 +37,7 @@
 
 #define EXAMPLE202 "0202._Happy_Number/example.cpp"
 #define EXAMPLE204 "0204._Count_Primes/example.cpp"
+#define EXAMPLE209 "0209._Minimum_Size_Subarray_Sum/example.cpp"
 #define EXAMPLE210 "0210._Course_Schedule_II/example.cpp"
 #define EXAMPLE217 "0217._Contains_Duplicate/example.cpp"
 #define EXAMPLE212 "0212._Word_Search_II/example.cpp"
