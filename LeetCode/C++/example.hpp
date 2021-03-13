@@ -111,6 +111,7 @@
 #define EXAMPLE829 "0829._Consecutive_Numbers_Sum/example.cpp"
 #define EXAMPLE832 "0832._Flipping_an_Image/example.cpp"
 #define EXAMPLE852 "0852._Peak_Index_in_a_Mountain_Array/example.cpp"
+#define EXAMPLE862 "0862._Shortest_Subarray_with_Sum_at_Least_K/example.cpp"
 #define EXAMPLE877 "0877._Stone_Game/example.cpp"
 #define EXAMPLE905 "0905._Sort_Array_By_Parity/example.cpp"
 #define EXAMPLE929 "0929._Unique_Email_Addresses/example.cpp"
