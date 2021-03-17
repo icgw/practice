@@ -14,6 +14,7 @@
 #define EXAMPLE42 "0042._Trapping_Rain_Water/example.cpp"
 #define EXAMPLE44 "0044._Wildcard_Matching/example.cpp"
 #define EXAMPLE45 "0045._Jump_Game_II/example.cpp"
+#define EXAMPLE53 "0053._Maximum_Subarray/example.cpp"
 #define EXAMPLE54 "0054._Spiral_Matrix/example.cpp"
 #define EXAMPLE69 "0069._Sqrt_x/example.cpp"
 #define EXAMPLE72 "0072._Edit_Distance/example.cpp"
