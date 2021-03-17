@@ -125,6 +125,7 @@
 #define EXAMPLE939 "0939._Minimum_Area_Rectangle/example.cpp"
 #define EXAMPLE974 "0974._Subarray_Sums_Divisible_by_K/example.cpp"
 #define EXAMPLE986 "0986._Interval_List_Intersections/example.cpp"
+#define EXAMPLE990 "0990._Satisfiability_of_Equality_Equations/example.cpp"
 
 #define EXAMPLE1011 "1011._Capacity_To_Ship_Packages_Within_D_Days/example.cpp"
 #define EXAMPLE1021 "1021._Remove_Outermost_Parentheses/example.cpp"
