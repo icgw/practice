@@ -4,6 +4,7 @@
 #define EXAMPLE1 "0001._Two_Sum/example.cpp"
 #define EXAMPLE3 "0003._Longest_Substring_Without_Repeating_Characters/example.cpp"
 #define EXAMPLE4 "0004._Median_of_Two_Sorted_Arrays/example.cpp"
+#define EXAMPLE5 "0005._Longest_Palindromic_Substring/example.cpp"
 #define EXAMPLE6 "0006._ZigZag_Conversion/example.cpp"
 
 #define EXAMPLE15 "0015._3Sum/example.cpp"
