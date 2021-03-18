@@ -9,6 +9,7 @@
 
 #define EXAMPLE15 "0015._3Sum/example.cpp"
 
+#define EXAMPLE20 "0020._Valid_Parentheses/example.cpp"
 #define EXAMPLE21 "0021._Merge_Two_Sorted_Lists/example.cpp"
 #define EXAMPLE22 "0022._Generate_Parentheses/example.cpp"
 #define EXAMPLE25 "0025._Reverse_Nodes_in_k_Group/example.cpp"
