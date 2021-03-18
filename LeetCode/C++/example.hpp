@@ -45,6 +45,7 @@
 
 #define EXAMPLE202 "0202._Happy_Number/example.cpp"
 #define EXAMPLE204 "0204._Count_Primes/example.cpp"
+#define EXAMPLE206 "0206._Reverse_Linked_list/example.cpp"
 #define EXAMPLE209 "0209._Minimum_Size_Subarray_Sum/example.cpp"
 #define EXAMPLE210 "0210._Course_Schedule_II/example.cpp"
 #define EXAMPLE215 "0215._Kth_Largest_Element_in_an_Array/example.cpp"
