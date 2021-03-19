@@ -12,6 +12,7 @@
 #define EXAMPLE20 "0020._Valid_Parentheses/example.cpp"
 #define EXAMPLE21 "0021._Merge_Two_Sorted_Lists/example.cpp"
 #define EXAMPLE22 "0022._Generate_Parentheses/example.cpp"
+#define EXAMPLE23 "0023._Merge_k_Sorted_Lists/example.cpp"
 #define EXAMPLE25 "0025._Reverse_Nodes_in_k_Group/example.cpp"
 #define EXAMPLE33 "0033._Search_in_Rotated_Sorted_Array/example.cpp"
 #define EXAMPLE41 "0041._First_Missing_Positive/example.cpp"
