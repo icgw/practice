@@ -1,5 +1,5 @@
 #include <iostream>
-#include "solution.hpp"
+#include "solution.h"
 
 void run_example() {
     LRUCache cache(2);
