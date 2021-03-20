@@ -192,6 +192,7 @@
 #define EXAMPLE1351 "1351._Count_Negative_Numbers_in_a_Sorted_Matrix/example.cpp"
 #define EXAMPLE1365 "1365._How_Many_Numbers_Are_Smaller_Than_the_Current_Number/example.cpp"
 #define EXAMPLE1448 "1448._Count_Good_Nodes_in_Binary_Tree/example.cpp"
+#define EXAMPLE1510 "1510._Stone_Game_IV/example.cpp"
 #define EXAMPLE1551 "1551._Minimum_Operations_to_Make_Array_Equal/example.cpp"
 #define EXAMPLE1561 "1561._Maximum_Number_of_Coins_You_Can_Get/example.cpp"
 #define EXAMPLE1563 "1563._Stone_Game_V/example.cpp"
