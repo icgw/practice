@@ -101,6 +101,7 @@
 #define EXAMPLE387 "0387._First_Unique_Character_in_a_String/example.cpp"
 #define EXAMPLE394 "0394._Decode_String/example.cpp"
 #define EXAMPLE395 "0395._Longest_Substring_with_At_Least_K_Repeating_Characters/example.cpp"
+#define EXAMPLE398 "0398._Random_Pick_Index/example.cpp"
 #define EXAMPLE399 "0399._Evaluate_Division/example.cpp"
 #define EXAMPLE406 "0406._Queue_Reconstruction_by_Height/example.cpp"
 #define EXAMPLE415 "0415._Add_Strings/example.cpp"
