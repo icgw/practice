@@ -17,41 +17,29 @@ using std::sort;
 class Solution {
 public:
   vector<vector<int>> threeSum(vector<int>& nums) {
-    sort(begin(nums), end(nums));
-    vector<vector<int>> res;
-    for (int i = 0; i < nums.size(); ++i) {
-      int target = -nums[i];
-      if (target < 0) {
-        break;
-      }
-
-      int lo = i + 1;
-      int hi = nums.size() - 1;
-
-      while (lo < hi) {
-        int n1 = nums[lo];
-        int n2 = nums[hi];
-        int sum = n1 + n2;
-        if (sum < target) {
-          ++lo;
-        }
-        else if (sum > target) {
-          --hi;
-        }
-        else {
-          res.push_back( { -target, n1, n2 } );
-          while (lo < hi && nums[lo] == n1) {
-            ++lo;
-          }
-          while (lo < hi && nums[hi] == n2) {
-            --hi;
-          }
+    if (nums.size() < 3) return {};
+    sort(nums.begin(), nums.end());
+    int n = nums.size();
+    vector<vector<int>> res{};
+    int previ = nums[0] - 1;
+    for (int i = 0; i < n; ++i) {
+      if (nums[i] == previ) continue;
+      int L = i + 1;
+      int R = n - 1;
+      while (L < R) {
+        int sum = nums[i] + nums[L] + nums[R];
+        if (sum < 0) {
+          ++L;
+        } else if (sum > 0) {
+          --R;
+        } else {
+          res.push_back({nums[i], nums[L], nums[R]});
+          while (L + 1 < R && nums[L] == nums[L + 1]) ++L;
+          while (R - 1 > L && nums[R] == nums[R - 1]) --R;
+          ++L, --R;
         }
       }
-
-      while (i + 1 < nums.size() && nums[i + 1] == nums[i]) {
-        ++i;
-      }
+      previ = nums[i];
     }
     return res;
   }
