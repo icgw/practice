@@ -111,6 +111,7 @@
 #define EXAMPLE438 "0438._Find_All_Anagrams_in_a_String/example.cpp"
 #define EXAMPLE448 "0448._Find_All_Numbers_Disappeared_in_an_Array/example.cpp"
 #define EXAMPLE454 "0454._4Sum_II/example.cpp"
+#define EXAMPLE456 "0456._132_Pattern/example.cpp"
 #define EXAMPLE461 "0461._Hamming_Distance/example.cpp"
 #define EXAMPLE494 "0494._Target_Sum/example.cpp"
 #define EXAMPLE538 "0538._Convert_BST_to_Greater_Tree/example.cpp"
