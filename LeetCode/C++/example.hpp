@@ -48,6 +48,7 @@
 #define EXAMPLE173 "0173._Binary_Search_Tree_Iterator/example.cpp"
 #define EXAMPLE174 "0174._Dungeon_Game/example.cpp"
 #define EXAMPLE188 "0188._Best_Time_to_Buy_and_Sell_Stock_IV/example.cpp"
+#define EXAMPLE190 "0190._Reverse_Bits/example.cpp"
 #define EXAMPLE199 "0199._Binary_Tree_Right_Side_View/example.cpp"
 
 #define EXAMPLE202 "0202._Happy_Number/example.cpp"
