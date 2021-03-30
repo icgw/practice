@@ -27,6 +27,7 @@
 #define EXAMPLE69 "0069._Sqrt_x/example.cpp"
 #define EXAMPLE72 "0072._Edit_Distance/example.cpp"
 #define EXAMPLE76 "0076._Minimum_Window_Substring/example.cpp"
+#define EXAMPLE80 "0080._Remove_Duplicates_from_Sorted_Array_II/example.cpp"
 #define EXAMPLE84 "0084._Largest_Rectangle_in_Histogram/example.cpp"
 #define EXAMPLE85 "0085._Maximal_Rectangle/example.cpp"
 #define EXAMPLE97 "0097._Interleaving_String/example.cpp"

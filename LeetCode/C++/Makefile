@@ -1,4 +1,4 @@
-EXAMPLE = EXAMPLE190
+EXAMPLE = EXAMPLE80
 
 # 设置编译器选项
 CXXFLAGS = -std=c++17
