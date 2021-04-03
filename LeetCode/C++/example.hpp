@@ -178,6 +178,7 @@
 #define EXAMPLE1122 "1122._Relative_Sort_Array/example.cpp"
 #define EXAMPLE1133 "1133._Largest_Unique_Number/example.cpp"
 #define EXAMPLE1134 "1134._Armstrong_Number/example.cpp"
+#define EXAMPLE1143 "1143._Longest_Common_Subsequence/example.cpp"
 #define EXAMPLE1154 "1154._Day_of_the_Year/example.cpp"
 #define EXAMPLE1160 "1160._Find_Words_That_Can_Be_Formed_by_Characters/example.cpp"
 #define EXAMPLE1170 "1170._Compare_Strings_by_Frequency_of_the_Smallest_Character/example.cpp"
