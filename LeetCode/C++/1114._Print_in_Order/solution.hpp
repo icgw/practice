@@ -8,37 +8,32 @@
 #ifndef _SOLUTION_HPP_
 #define _SOLUTION_HPP_
 
-#include <mutex>
-using std::mutex;
+#include <future>
+using std::promise;
 #include <functional>
 using std::function;
 
 class Foo {
 private:
-  mutex m1, m2;
+  promise<void> p1, p2;
 
 public:
-  Foo() {
-    m1.lock();
-    m2.lock();
-  }
+  Foo() {}
 
   void first(function<void()> printFirst) {
     printFirst();
-    m1.unlock();
+    p1.set_value();
   }
 
   void second(function<void()> printSecond) {
-    m1.lock();
+    p1.get_future().get();
     printSecond();
-    m1.unlock();
-    m2.unlock();
+    p2.set_value();
   }
 
   void third(function<void()> printThird) {
-    m2.lock();
+    p2.get_future().get();
     printThird();
-    m2.unlock();
   }
 };
 
