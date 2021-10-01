@@ -34,6 +34,7 @@
 #define EXAMPLE99 "0099._Recover_Binary_Search_Tree/example.cpp"
 
 #define EXAMPLE105 "0105._Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/example.cpp"
+#define EXAMPLE112 "0112._Path_Sum/example.cpp"
 #define EXAMPLE115 "0115._Distinct_Subsequences/example.cpp"
 #define EXAMPLE120 "0120._Triangle/example.cpp"
 #define EXAMPLE123 "0123._Best_Time_to_Buy_and_Sell_Stock_III/example.cpp"
