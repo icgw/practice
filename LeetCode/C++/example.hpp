@@ -117,6 +117,8 @@
 #define EXAMPLE456 "0456._132_Pattern/example.cpp"
 #define EXAMPLE461 "0461._Hamming_Distance/example.cpp"
 #define EXAMPLE494 "0494._Target_Sum/example.cpp"
+#define EXAMPLE496 "0496._Next_Greater_Element_I/example.cpp"
+
 #define EXAMPLE538 "0538._Convert_BST_to_Greater_Tree/example.cpp"
 #define EXAMPLE543 "0543._Diameter_of_Binary_Tree/example.cpp"
 #define EXAMPLE554 "0554._Brick_Wall/example.cpp"
