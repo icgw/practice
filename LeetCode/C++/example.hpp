@@ -133,6 +133,7 @@
 #define EXAMPLE662 "0662._Maximum_Width_of_Binary_Tree/example.cpp"
 #define EXAMPLE692 "0692._Top_K_Frequent_Words/example.cpp"
 #define EXAMPLE716 "0716._Max_Stack/example.cpp"
+#define EXAMPLE720 "0720._Longest_Word_in_Dictionary/example.cpp"
 #define EXAMPLE739 "0739._Daily_Temperatures/example.cpp"
 #define EXAMPLE746 "0746._Min_Cost_Climbing_Stairs/example.cpp"
 #define EXAMPLE760 "0760._Find_Anagram_Mappings/example.cpp"
