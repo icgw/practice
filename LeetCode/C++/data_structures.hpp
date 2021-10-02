@@ -4,6 +4,7 @@
 #include <queue>
 #include <sstream>
 #include <iostream>
+#include <algorithm>
 
 #include <vector>
 using std::vector;
@@ -28,13 +29,13 @@ struct ListNode {
 };
 
 void trimLeftTrailingSpaces(string &input){
-    input.erase(input.begin(), find_if(input.begin(), input.end(), [](int ch) {
+    input.erase(input.begin(), std::find_if(input.begin(), input.end(), [](int ch) {
                     return !isspace(ch);
                 }));
 }
 
 void trimRightTrailingSpaces(string &input){
-    input.erase(find_if(input.rbegin(), input.rend(), [](int ch) {
+    input.erase(std::find_if(input.rbegin(), input.rend(), [](int ch) {
                     return !isspace(ch);
                 }).base(), input.end());
 }

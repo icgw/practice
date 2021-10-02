@@ -1,4 +1,4 @@
-EXAMPLE = EXAMPLE112
+EXAMPLE = EXAMPLE119
 
 # 设置编译器选项
 CXXFLAGS = -std=c++17
@@ -8,7 +8,7 @@ CPPFLAGS = -D EXAMPLE=$(EXAMPLE)
 PROGRAM = $(EXAMPLE)
 
 # 设置编译器
-CXX = clang++
+CXX = g++
 
 RM = rm -f
 
