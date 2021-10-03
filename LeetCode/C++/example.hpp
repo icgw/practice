@@ -14,6 +14,7 @@
 #define EXAMPLE22 "0022._Generate_Parentheses/example.cpp"
 #define EXAMPLE23 "0023._Merge_k_Sorted_Lists/example.cpp"
 #define EXAMPLE25 "0025._Reverse_Nodes_in_k_Group/example.cpp"
+#define EXAMPLE28 "0028._Implement_strStr/example.cpp"
 #define EXAMPLE30 "0030._Substring_with_Concatenation_of_All_Words/example.cpp"
 #define EXAMPLE33 "0033._Search_in_Rotated_Sorted_Array/example.cpp"
 #define EXAMPLE41 "0041._First_Missing_Positive/example.cpp"
