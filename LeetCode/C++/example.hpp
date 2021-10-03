@@ -8,6 +8,7 @@
 #define EXAMPLE6 "0006._ZigZag_Conversion/example.cpp"
 
 #define EXAMPLE15 "0015._3Sum/example.cpp"
+#define EXAMPLE18 "0018._4Sum/example.cpp"
 
 #define EXAMPLE20 "0020._Valid_Parentheses/example.cpp"
 #define EXAMPLE21 "0021._Merge_Two_Sorted_Lists/example.cpp"
