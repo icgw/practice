@@ -20,26 +20,25 @@ public:
     if (nums.size() < 3) return {};
     sort(nums.begin(), nums.end());
     int n = nums.size();
-    vector<vector<int>> res{};
-    int previ = nums[0] - 1;
-    for (int i = 0; i < n; ++i) {
-      if (nums[i] == previ) continue;
+    vector<vector<int>> res;
+    for (int i = 0; i < n - 2; ++i) {
       int L = i + 1;
       int R = n - 1;
+      int target = -nums[i];
       while (L < R) {
-        int sum = nums[i] + nums[L] + nums[R];
-        if (sum < 0) {
+        int two_sum = nums[L] + nums[R];
+        if (two_sum < target) {
           ++L;
-        } else if (sum > 0) {
+        } else if (two_sum > target) {
           --R;
         } else {
-          res.push_back({nums[i], nums[L], nums[R]});
-          while (L + 1 < R && nums[L] == nums[L + 1]) ++L;
-          while (R - 1 > L && nums[R] == nums[R - 1]) --R;
-          ++L, --R;
+          vector<int> tri{nums[i], nums[L], nums[R]};
+          res.push_back(tri);
+          while (L < R && nums[L] == tri[1]) ++L;
+          while (L < R && nums[R] == tri[2]) --R;
         }
       }
-      previ = nums[i];
+      while (i < n - 2 && nums[i + 1] + target == 0) ++i;
     }
     return res;
   }
