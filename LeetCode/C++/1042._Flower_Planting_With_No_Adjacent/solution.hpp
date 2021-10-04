@@ -10,24 +10,27 @@
 
 #include <vector>
 using std::vector;
+#include <array>
+using std::array;
 
 class Solution {
 public:
-  vector<int> gardenNoAdj(int N, vector<vector<int>>& paths) {
-    vector<vector<int>> graph ( N );
-    for (auto &p : paths) {
-      graph[p[0] - 1].push_back(p[1] - 1);
-      graph[p[1] - 1].push_back(p[0] - 1);
+  vector<int> gardenNoAdj(int n, vector<vector<int>>& paths) {
+    vector<int> res(n, 0);
+    vector<vector<int>> graph(n);
+    for (auto& p : paths) {
+      int n1 = p[0] - 1;
+      int n2 = p[1] - 1;
+      graph[n1].push_back(n2);
+      graph[n2].push_back(n1);
     }
-
-    vector<int> res (N, 0);
-    for (int i = 0; i < N; ++i) {
-      bool used[5] = {};
-      for (auto n : graph[i]) {
-        used[res[n]] = true;
+    for (int i = 0; i < n; ++i) {
+      array<bool, 5> colors = {false, false, false, false, false};
+      for (auto nbr : graph[i]) {
+        colors[res[nbr]] = true;
       }
-      for (int c = 1; c < 5; ++c) {
-        if (!used[c]) {
+      for (int c = 1; c <= 4; ++c) {
+        if (!colors[c]) {
           res[i] = c;
           break;
         }
