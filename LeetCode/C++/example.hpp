@@ -141,6 +141,7 @@
 #define EXAMPLE760 "0760._Find_Anagram_Mappings/example.cpp"
 #define EXAMPLE763 "0763._Partition_Labels/example.cpp"
 #define EXAMPLE771 "0771._Jewels_and_Stones/example.cpp"
+#define EXAMPLE787 "0787._Cheapest_Flights_Within_K_Stops/example.cpp"
 #define EXAMPLE804 "0804._Unique_Morse_Code_Words/example.cpp"
 #define EXAMPLE820 "0820._Short_Encoding_of_Words/example.cpp"
 #define EXAMPLE829 "0829._Consecutive_Numbers_Sum/example.cpp"
