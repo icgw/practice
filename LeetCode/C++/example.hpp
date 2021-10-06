@@ -42,6 +42,7 @@
 #define EXAMPLE119 "0119._Pascals_Triangle_II/example.cpp"
 #define EXAMPLE120 "0120._Triangle/example.cpp"
 #define EXAMPLE121 "0121._Best_Time_to_Buy_and_Sell_Stock/example.cpp"
+#define EXAMPLE122 "0122._Best_Time_to_Buy_and_Sell_Stock_II/example.cpp"
 #define EXAMPLE123 "0123._Best_Time_to_Buy_and_Sell_Stock_III/example.cpp"
 #define EXAMPLE124 "0124._Binary_Tree_Maximum_Path_Sum/example.cpp"
 #define EXAMPLE128 "0128._Longest_Consecutive_Sequence/example.cpp"
