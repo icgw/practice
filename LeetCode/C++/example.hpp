@@ -34,6 +34,7 @@
 #define EXAMPLE84 "0084._Largest_Rectangle_in_Histogram/example.cpp"
 #define EXAMPLE85 "0085._Maximal_Rectangle/example.cpp"
 #define EXAMPLE97 "0097._Interleaving_String/example.cpp"
+#define EXAMPLE98 "0098._Validate_Binary_Search_Tree/example.cpp"
 #define EXAMPLE99 "0099._Recover_Binary_Search_Tree/example.cpp"
 
 #define EXAMPLE105 "0105._Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/example.cpp"
