@@ -148,6 +148,7 @@
 #define EXAMPLE771 "0771._Jewels_and_Stones/example.cpp"
 #define EXAMPLE787 "0787._Cheapest_Flights_Within_K_Stops/example.cpp"
 #define EXAMPLE804 "0804._Unique_Morse_Code_Words/example.cpp"
+#define EXAMPLE807 "0807._Max_Increase_to_Keep_City_Skyline/example.cpp"
 #define EXAMPLE820 "0820._Short_Encoding_of_Words/example.cpp"
 #define EXAMPLE829 "0829._Consecutive_Numbers_Sum/example.cpp"
 #define EXAMPLE832 "0832._Flipping_an_Image/example.cpp"
