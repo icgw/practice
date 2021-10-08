@@ -10,25 +10,24 @@
 
 #include <string>
 using std::string;
-#include <unordered_set>
-using std::unordered_set;
+#include <vector>
+using std::vector;
 #include <algorithm>
 using std::max;
 
 class Solution {
 public:
   int lengthOfLongestSubstring(string s) {
-    unordered_set<char> lookup;
-    int left = 0;
+    vector<int> lookup(256, -1);
+    int left = -1;
     int n = s.size();
     int res = 0;
     for (int i = 0; i < n; ++i) {
-      while (lookup.find(s[i]) != lookup.end()) {
-        lookup.erase(s[left]);
-        ++left;
+      if (lookup[s[i]] > left) {
+        left = lookup[s[i]];
       }
-      lookup.insert(s[i]);
-      res = max(res, i - left + 1);
+      lookup[s[i]] = i;
+      res = max(res, i - left);
     }
     return res;
   }
