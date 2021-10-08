@@ -18,13 +18,9 @@ using std::numeric_limits;
 class Solution {
 public:
   bool find132pattern(vector<int>& nums) {
-    int n = nums.size();
-    if (n < 3) {
-      return false;
-    }
-    stack<int> stk{};
+    stack<int> stk;
     int k = numeric_limits<int>::min();
-    for (int i = n - 1; i >= 0; --i) {
+    for (int i = nums.size() - 1; i >= 0; --i) {
       if (nums[i] < k) {
         return true;
       }
@@ -32,9 +28,7 @@ public:
         k = stk.top();
         stk.pop();
       }
-      if (nums[i] > k) {
-        stk.push(nums[i]);
-      }
+      stk.push(nums[i]);
     }
     return false;
   }
