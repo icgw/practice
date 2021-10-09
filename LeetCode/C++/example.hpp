@@ -125,6 +125,7 @@
 #define EXAMPLE454 "0454._4Sum_II/example.cpp"
 #define EXAMPLE456 "0456._132_Pattern/example.cpp"
 #define EXAMPLE461 "0461._Hamming_Distance/example.cpp"
+#define EXAMPLE483 "0483._Smallest_Good_Base/example.cpp"
 #define EXAMPLE494 "0494._Target_Sum/example.cpp"
 #define EXAMPLE496 "0496._Next_Greater_Element_I/example.cpp"
 
