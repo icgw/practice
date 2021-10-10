@@ -237,7 +237,9 @@
 #define EXAMPLE1665 "1665._Minimum_Initial_Energy_to_Finish_Tasks/example.cpp"
 #define EXAMPLE1773 "1773._Count_Items_Matching_a_Rule/example.cpp"
 #define EXAMPLE1775 "1775._Equal_Sum_Arrays_With_Minimum_Number_of_Operations/example.cpp"
+
 #define EXAMPLE2016 "2016._Maximum_Difference_Between_Increasing_Elements/example.cpp"
+#define EXAMPLE2033 "2033._Minimum_Operations_to_Uni_Value_Grid/example.cpp"
 
 #define RUN_EXAMPLE run_example();
 
