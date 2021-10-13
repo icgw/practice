@@ -138,6 +138,7 @@
 #define EXAMPLE572 "0572._Subtree_of_Another_Tree/example.cpp"
 #define EXAMPLE581 "0581._Shortest_Unsorted_Continuous_Subarray/example.cpp"
 #define EXAMPLE583 "0583._Delete_Operation_for_Two_Strings/example.cpp"
+#define EXAMPLE605 "0605._Can_Place_Flowers/example.cpp"
 #define EXAMPLE621 "0621._Task_Scheduler/example.cpp"
 #define EXAMPLE647 "0647._Palindromic_Substrings/example.cpp"
 #define EXAMPLE662 "0662._Maximum_Width_of_Binary_Tree/example.cpp"
