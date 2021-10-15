@@ -163,6 +163,7 @@
 #define EXAMPLE929 "0929._Unique_Email_Addresses/example.cpp"
 #define EXAMPLE937 "0937._Reorder_Data_in_Log_Files/example.cpp"
 #define EXAMPLE939 "0939._Minimum_Area_Rectangle/example.cpp"
+#define EXAMPLE968 "0968._Binary_Tree_Cameras/example.cpp"
 #define EXAMPLE974 "0974._Subarray_Sums_Divisible_by_K/example.cpp"
 #define EXAMPLE986 "0986._Interval_List_Intersections/example.cpp"
 #define EXAMPLE990 "0990._Satisfiability_of_Equality_Equations/example.cpp"
