@@ -68,6 +68,7 @@
 #define EXAMPLE210 "0210._Course_Schedule_II/example.cpp"
 #define EXAMPLE215 "0215._Kth_Largest_Element_in_an_Array/example.cpp"
 #define EXAMPLE217 "0217._Contains_Duplicate/example.cpp"
+#define EXAMPLE218 "0218._The_Skyline_Problem/example.cpp"
 #define EXAMPLE212 "0212._Word_Search_II/example.cpp"
 #define EXAMPLE227 "0227._Basic_Calculator_II/example.cpp"
 #define EXAMPLE230 "0230._Kth_Smallest_Element_in_a_BST/example.cpp"
