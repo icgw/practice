@@ -244,6 +244,7 @@
 #define EXAMPLE2016 "2016._Maximum_Difference_Between_Increasing_Elements/example.cpp"
 #define EXAMPLE2033 "2033._Minimum_Operations_to_Uni_Value_Grid/example.cpp"
 #define EXAMPLE2034 "2034._Stock_Price_Fluctuation/example.cpp"
+#define EXAMPLE2045 "2045._Second_Minimum_Time_to_Reach_Destination/example.cpp"
 
 #define RUN_EXAMPLE run_example();
 
