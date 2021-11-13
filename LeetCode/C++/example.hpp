@@ -131,6 +131,7 @@
 #define EXAMPLE494 "0494._Target_Sum/example.cpp"
 #define EXAMPLE496 "0496._Next_Greater_Element_I/example.cpp"
 
+#define EXAMPLE520 "0520._Detect_Capital/example.cpp"
 #define EXAMPLE524 "0524._Longest_Word_in_Dictionary_through_Deleting/example.cpp"
 #define EXAMPLE538 "0538._Convert_BST_to_Greater_Tree/example.cpp"
 #define EXAMPLE543 "0543._Diameter_of_Binary_Tree/example.cpp"
