@@ -1,14 +1,9 @@
-/*
- * mod.rs
- * Copyright (C) 2021 Guowei Chen <icgw@outlook.com>
- *
- * Distributed under terms of the MIT license.
- */
-use crate::Solution;
-use std::i32;
 use std::cmp;
+use std::i32;
 
-impl Solution {
+pub struct CharactersAlgorithm;
+
+impl CharactersAlgorithm {
     pub fn min_deletions(s: String) -> i32 {
         let mut frequences = vec![0; 26];
         for ch in s.chars() {
@@ -30,24 +25,24 @@ impl Solution {
 }
 
 #[cfg(test)]
-mod tests {
-    use crate::_1647_minimum_deletions_to_make_character_frequencies_unique_::Solution;
+mod _leetcode1647_ {
+    use crate::characters::CharactersAlgorithm;
 
     #[test]
-    fn p1647_example_1() {
+    fn case1() {
         let s = String::from("aab");
-        assert_eq!(Solution::min_deletions(s), 0);
+        assert_eq!(CharactersAlgorithm::min_deletions(s), 0);
     }
 
     #[test]
-    fn p1647_example_2() {
+    fn case2() {
         let s = String::from("aaabbbcc");
-        assert_eq!(Solution::min_deletions(s), 2);
+        assert_eq!(CharactersAlgorithm::min_deletions(s), 2);
     }
 
     #[test]
-    fn p1647_example_3() {
+    fn case3() {
         let s = String::from("ceabaacb");
-        assert_eq!(Solution::min_deletions(s), 2);
+        assert_eq!(CharactersAlgorithm::min_deletions(s), 2);
     }
 }
