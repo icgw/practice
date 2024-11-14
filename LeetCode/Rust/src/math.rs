@@ -33,6 +33,19 @@ impl MathAlgorithm {
         }
         return MathAlgorithm::is_prime(sq);
     }
+
+    fn is_palindrome(x: i32) -> bool {
+        if x < 0 || (x % 10 == 0 && x != 0) {
+            return false;
+        }
+        let mut x = x;
+        let mut y = 0;
+        while x > y {
+            y = 10 * y + x % 10;
+            x = x / 10;
+        }
+        x == y || y / 10 == x
+    }
 }
 
 #[cfg(test)]
@@ -52,5 +65,15 @@ mod _leetcode1952_ {
     #[test]
     fn case3() {
         assert_eq!(MathAlgorithm::is_three(100), false);
+    }
+}
+
+#[cfg(test)]
+mod _leetcode9_ {
+    use crate::math::MathAlgorithm;
+
+    #[test]
+    fn case1() {
+        assert_eq!(MathAlgorithm::is_palindrome(121), true);
     }
 }
